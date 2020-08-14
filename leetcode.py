@@ -5,7 +5,7 @@
 @project: PyCharm
 @file: leetcode.py
 @author: Shengqiang Zhang
-@time: 2020/7/29 22:24
+@time: 2020/8/13 22:24
 @mail: sqzhang77@gmail.com
 """
 
@@ -15,6 +15,7 @@ import os
 import json
 import time
 
+# 设置leetcode-cn的cookies
 COOKIES = "csrftoken=cgeGvmjhUJmUIlTIeWjcOWEYabtRPS8U2NtDvhYUq2y9ehIfiXWZZeAkDptI8MbD; __auc=e41375211725193c608f5bde58a; gr_user_id=f4785e47-af60-46b9-9e20-e34821da39a9; _ga=GA1.2.1124019091.1590506542; grwng_uid=707dccf4-5da6-49e9-8368-729292e9cdd5; _uab_collina=159179947231810659755186; a2873925c34ecbd2_gr_last_sent_cs1=shengqiang-zhang; __atuvc=0%7C26%2C0%7C27%2C3%7C28%2C0%7C29%2C2%7C30; _gid=GA1.2.573330392.1597219162; Hm_lvt_fa218a3ff7179639febdb15e372f411c=1596276753,1596383327,1596572150,1597419560; a2873925c34ecbd2_gr_session_id=748717e4-2a9f-4f0b-bbba-1f034c509634; a2873925c34ecbd2_gr_last_sent_sid_with_cs1=748717e4-2a9f-4f0b-bbba-1f034c509634; __asc=cd5e9e5f173edfc10ac83e4fd10; a2873925c34ecbd2_gr_session_id_748717e4-2a9f-4f0b-bbba-1f034c509634=true; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuZXh0X2FmdGVyX29hdXRoIjoiLyIsIl9hdXRoX3VzZXJfaWQiOiIxNzg2NzgyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzZDgwNmJjYjE4ODVkODIzYzA4MmNjOGE4Yzk4ODFkNzk1Yzc3Y2EyIiwiaWQiOjE3ODY3ODIsImVtYWlsIjoiMzI1NzE3OTkxNEBxcS5jb20iLCJ1c2VybmFtZSI6InNoZW5ncWlhbmctemhhbmciLCJ1c2VyX3NsdWciOiJzaGVuZ3FpYW5nLXpoYW5nIiwiYXZhdGFyIjoiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUtY24uY29tL2FsaXl1bi1sYy11cGxvYWQvdXNlcnMvc2hlbmdxaWFuZy16aGFuZy9hdmF0YXJfMTU5NDQ4MTkyMy5wbmciLCJwaG9uZV92ZXJpZmllZCI6dHJ1ZSwiX3RpbWVzdGFtcCI6MTU5NzQyOTUzNy41MzM4MDczfQ.MYWOSmoyEa79B2-VbsPxbXoe_QNNVGufGqazsZY2flg; Hm_lpvt_fa218a3ff7179639febdb15e372f411c=1597429539; a2873925c34ecbd2_gr_cs1=shengqiang-zhang"
 
 
@@ -73,6 +74,8 @@ def get_accepted_problems():
 # 生成Markdown文本
 def generate_markdown_text(response_data):
 
+
+    # 部署方法
     response_data = response_data['data']['userProfileQuestions']['questions']
     markdown_text = "1. 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数\n"
     markdown_text += "2. 安装Python3, https://www.python.org/downloads/\n"
@@ -161,6 +164,7 @@ if __name__ == '__main__':
             f.write(markdown_text)
 
         # 提交到Github仓库
+        # 若README.md文件与上次获取的一模一样，则Github不会提交到仓库
         print(os.popen('git add .', 'r').readlines())
         print(os.popen('git commit -m "update"', 'r').readlines())
         print(os.popen('git push', 'r').readlines())
@@ -168,8 +172,5 @@ if __name__ == '__main__':
 
         # 等待12小时后重复运行以上步骤
         print("已于{} 更新README.md文件".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
-        print("等待12小时后再次检测更新...")
-        time.sleep(2+0*12 * 3600)
-
-
-
+        print("等待6小时后再次检测更新...")
+        time.sleep(6 * 3600)
