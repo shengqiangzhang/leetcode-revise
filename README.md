@@ -8,7 +8,7 @@
    - 将`leetcode.py`放置于本仓库目录下
 4. 部署到后台服务器命令:
   ```bash
-  nohup python leetcode.py > leetcode.log 2>&1 &
+  nohup python -u leetcode.py > leetcode.log 2>&1 &
   cat leetcode.log
   exit
 ```

@@ -87,7 +87,7 @@ def generate_markdown_text(response_data):
     markdown_text += "   - 将`leetcode.py`放置于本仓库目录下\n"
     markdown_text += "4. 部署到后台服务器命令:\n"
     markdown_text += "  ```bash\n"
-    markdown_text += "  nohup python leetcode.py > leetcode.log 2>&1 &\n"
+    markdown_text += "  nohup python -u leetcode.py > leetcode.log 2>&1 &\n"
     markdown_text += "  cat leetcode.log\n"
     markdown_text += "  exit\n"
     markdown_text += "```\n"
