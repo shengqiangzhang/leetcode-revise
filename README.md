@@ -1,4 +1,4 @@
-11111111111111111111111111111111. 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数
+1. 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数
 2. 安装Python3, https://www.python.org/downloads/
 3. 配置Github
    - 安装Git, https://git-scm.com/downloads
