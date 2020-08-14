@@ -11,7 +11,6 @@
 
 import requests
 requests.packages.urllib3.disable_warnings()
-import pyperclip
 import os
 import json
 import time
@@ -149,14 +148,14 @@ if __name__ == '__main__':
 
 
 
+    # 更新README.md文件
+    with open("README.md", "w") as f:
+        f.write(markdown_text)
 
-    # 复制到剪切板
-    print("已生成Markdown文本，并成功拷贝到剪切板，请按Ctrl + V进行粘贴")
-    pyperclip.copy(markdown_text)
+    # 提交到Github仓库
+    print(os.popen('git add .', 'r').readlines())
+    print(os.popen('git commit -m "update"', 'r').readlines())
+    print(os.popen('git push', 'r').readlines())
 
-    # print(os.popen('git add .', 'r').readlines())
-    # print(os.popen('git commit -m "update"', 'r').readlines())
-    # print(os.popen('git push', 'r').readlines())
-    #
 
 
