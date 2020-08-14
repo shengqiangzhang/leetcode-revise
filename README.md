@@ -1,10 +1,12 @@
 1. 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数
-2. 配置Github
+2. 安装Python3, https://www.python.org/downloads/
+3. 配置Github
    - 安装Git, https://git-scm.com/downloads
    - 在Github上创建一个新仓库
    - 配置Github SSH,  https://www.cnblogs.com/qlqwjy/p/8574456.html
    - Clone这个仓库到本地指定目录
-   - 将`leetcode.py`放置于本仓库目录下3. 部署到后台服务器命令:
+   - 将`leetcode.py`放置于本仓库目录下
+4. 部署到后台服务器命令:
   ```bash
   nohup python leetcode.py > leetcode.log 2>&1 &
   cat leetcode.log

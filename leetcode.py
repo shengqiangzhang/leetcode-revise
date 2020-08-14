@@ -88,13 +88,14 @@ if __name__ == '__main__':
     # 开始生成Markdown文本
     response_data = response_data['data']['userProfileQuestions']['questions']
     markdown_text =  "1. 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数\n"
-    markdown_text += "2. 配置Github\n"
+    markdown_text += "2. 安装Python3, https://www.python.org/downloads/\n"
+    markdown_text += "3. 配置Github\n"
     markdown_text += "   - 安装Git, https://git-scm.com/downloads\n"
     markdown_text += "   - 在Github上创建一个新仓库\n"
     markdown_text += "   - 配置Github SSH,  https://www.cnblogs.com/qlqwjy/p/8574456.html\n"
     markdown_text += "   - Clone这个仓库到本地指定目录\n"
-    markdown_text += "   - 将`leetcode.py`放置于本仓库目录下"
-    markdown_text += "3. 部署到后台服务器命令:\n"
+    markdown_text += "   - 将`leetcode.py`放置于本仓库目录下\n"
+    markdown_text += "4. 部署到后台服务器命令:\n"
     markdown_text += "  ```bash\n"
     markdown_text += "  nohup python leetcode.py > leetcode.log 2>&1 &\n"
     markdown_text += "  cat leetcode.log\n"
