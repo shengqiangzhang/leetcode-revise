@@ -73,90 +73,99 @@ def get_accepted_problems():
 
 if __name__ == '__main__':
 
-    # 获取所有通过的题目列表
-    status_code, response_data = get_accepted_problems()
+    # 循环运行
+    while True:
 
-    # 检测是否获取成功
-    if(status_code != requests.codes.ok or "errors" in response_data.keys()):
-        print("获取失败, 请检查cookies是否正确!")
-        print(response_data)
-        exit()
-    else:
-        print("获取成功!")
+        # 获取所有通过的题目列表
+        status_code, response_data = get_accepted_problems()
 
-
-    # 开始生成Markdown文本
-    response_data = response_data['data']['userProfileQuestions']['questions']
-    markdown_text =  "1. 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数\n"
-    markdown_text += "2. 安装Python3, https://www.python.org/downloads/\n"
-    markdown_text += "3. 配置Github\n"
-    markdown_text += "   - 安装Git, https://git-scm.com/downloads\n"
-    markdown_text += "   - 在Github上创建一个新仓库\n"
-    markdown_text += "   - 配置Github SSH,  https://www.cnblogs.com/qlqwjy/p/8574456.html\n"
-    markdown_text += "   - Clone这个仓库到本地指定目录\n"
-    markdown_text += "   - 将`leetcode.py`放置于本仓库目录下\n"
-    markdown_text += "4. 部署到后台服务器命令:\n"
-    markdown_text += "  ```bash\n"
-    markdown_text += "  nohup python leetcode.py > leetcode.log 2>&1 &\n"
-    markdown_text += "  cat leetcode.log\n"
-    markdown_text += "  exit\n"
-    markdown_text += "```\n"
-    markdown_text += "\n"
-    markdown_text += "| 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |\n| ---- | ---- | ---- | ---- | ---- |\n"
-
-
-    for index, sub_data in enumerate(response_data):
-
-        # 显示进度
-        print('{}/{}'.format(index + 1, len(response_data)))
-
-        # 获取一些必要的信息
-        lastSubmittedAt = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt']))
-        translatedTitle = "#{} {}".format(sub_data['frontendId'], sub_data['translatedTitle'])
-        frontendId = sub_data['frontendId']
-        difficulty = sub_data['difficulty']
-        titleSlug = sub_data['titleSlug']
-        numSubmitted = sub_data['numSubmitted']
-        numSubmitted = str(numSubmitted)
-        url = "https://leetcode-cn.com/problems/{}".format(sub_data['titleSlug'])
-
-
-        # 获取重刷次数
-        # 规则定义如下：提交通过的时间 与 之前提交通过的时间 不为同一天 即认为是重新刷了一遍
-        submission_dict = get_submission_list(titleSlug)
-        submission_list = submission_dict['data']['submissionList']['submissions']
-        submission_accepted_dict = {}
-
-        for submission in submission_list:
-            status = submission['statusDisplay']
-            if(status == 'Accepted'):
-                submission_time = time.strftime("%Y-%m-%d", time.localtime(int(submission['timestamp'])))
-                if submission_time in submission_accepted_dict.keys():
-                    submission_accepted_dict[submission_time] += 1
-                else:
-                    submission_accepted_dict[submission_time] = 1
-
-        # 重刷次数
-        count = len(submission_accepted_dict)
-        if count > 1:
-            count = "**" + str(count) + "**"
+        # 检测是否获取成功
+        if(status_code != requests.codes.ok or "errors" in response_data.keys()):
+            print("获取失败, 请检查cookies是否正确!")
+            print(response_data)
+            exit()
         else:
-            count = str(count)
-
-        # 更新Markdown文本
-        markdown_text += "| " + lastSubmittedAt + " | " + "[" + translatedTitle + "]" + "(" + url + ")" + " | " + difficulty + " | " + numSubmitted + " | " + count + " |" + "\n"
+            print("获取成功!")
 
 
+        # 开始生成Markdown文本
+        response_data = response_data['data']['userProfileQuestions']['questions']
+        markdown_text =  "1. 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数\n"
+        markdown_text += "2. 安装Python3, https://www.python.org/downloads/\n"
+        markdown_text += "3. 配置Github\n"
+        markdown_text += "   - 安装Git, https://git-scm.com/downloads\n"
+        markdown_text += "   - 在Github上创建一个新仓库\n"
+        markdown_text += "   - 配置Github SSH,  https://www.cnblogs.com/qlqwjy/p/8574456.html\n"
+        markdown_text += "   - Clone这个仓库到本地指定目录\n"
+        markdown_text += "   - 将`leetcode.py`放置于本仓库目录下\n"
+        markdown_text += "4. 部署到后台服务器命令:\n"
+        markdown_text += "  ```bash\n"
+        markdown_text += "  nohup python leetcode.py > leetcode.log 2>&1 &\n"
+        markdown_text += "  cat leetcode.log\n"
+        markdown_text += "  exit\n"
+        markdown_text += "```\n"
+        markdown_text += "\n"
+        markdown_text += "| 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |\n| ---- | ---- | ---- | ---- | ---- |\n"
 
 
-    # 更新README.md文件
-    with open("README.md", "w") as f:
-        f.write(markdown_text)
+        for index, sub_data in enumerate(response_data):
 
-    # 提交到Github仓库
-    print(os.popen('git add .', 'r').readlines())
-    print(os.popen('git commit -m "update"', 'r').readlines())
-    print(os.popen('git push', 'r').readlines())
+            # 显示进度
+            print('{}/{}'.format(index + 1, len(response_data)))
+
+            # 获取一些必要的信息
+            lastSubmittedAt = time.strftime("%Y-%m-%d %H:%M", time.localtime(sub_data['lastSubmittedAt']))
+            translatedTitle = "#{} {}".format(sub_data['frontendId'], sub_data['translatedTitle'])
+            frontendId = sub_data['frontendId']
+            difficulty = sub_data['difficulty']
+            titleSlug = sub_data['titleSlug']
+            numSubmitted = sub_data['numSubmitted']
+            numSubmitted = str(numSubmitted)
+            url = "https://leetcode-cn.com/problems/{}".format(sub_data['titleSlug'])
+
+
+            # 获取重刷次数
+            # 规则定义如下：提交通过的时间 与 之前提交通过的时间 不为同一天 即认为是重新刷了一遍
+            submission_dict = get_submission_list(titleSlug)
+            submission_list = submission_dict['data']['submissionList']['submissions']
+            submission_accepted_dict = {}
+
+            for submission in submission_list:
+                status = submission['statusDisplay']
+                if(status == 'Accepted'):
+                    submission_time = time.strftime("%Y-%m-%d", time.localtime(int(submission['timestamp'])))
+                    if submission_time in submission_accepted_dict.keys():
+                        submission_accepted_dict[submission_time] += 1
+                    else:
+                        submission_accepted_dict[submission_time] = 1
+
+            # 重刷次数
+            count = len(submission_accepted_dict)
+            if count > 1:
+                count = "**" + str(count) + "**"
+            else:
+                count = str(count)
+
+            # 更新Markdown文本
+            markdown_text += "| " + lastSubmittedAt + " | " + "[" + translatedTitle + "]" + "(" + url + ")" + " | " + difficulty + " | " + numSubmitted + " | " + count + " |" + "\n"
+
+
+
+
+        # 更新README.md文件
+        with open("README.md", "w") as f:
+            f.write(markdown_text)
+
+        # 提交到Github仓库
+        print(os.popen('git add .', 'r').readlines())
+        print(os.popen('git commit -m "update"', 'r').readlines())
+        print(os.popen('git push', 'r').readlines())
+
+
+        # 等待12小时后重复运行以上步骤
+        print("已于{} 更新README.md文件".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+        print("等待12小时后再次检测更新...")
+        time.sleep(12 * 3600)
 
 
 
