@@ -16,6 +16,7 @@ import json
 import time
 
 # 设置leetcode-cn的cookies
+# 请勿泄露
 COOKIES = "csrftoken=cgeGvmjhUJmUIlTIeWjcOWEYabtRPS8U2NtDvhYUq2y9ehIfiXWZZeAkDptI8MbD; __auc=e41375211725193c608f5bde58a; gr_user_id=f4785e47-af60-46b9-9e20-e34821da39a9; _ga=GA1.2.1124019091.1590506542; grwng_uid=707dccf4-5da6-49e9-8368-729292e9cdd5; _uab_collina=159179947231810659755186; a2873925c34ecbd2_gr_last_sent_cs1=shengqiang-zhang; __atuvc=0%7C26%2C0%7C27%2C3%7C28%2C0%7C29%2C2%7C30; _gid=GA1.2.573330392.1597219162; Hm_lvt_fa218a3ff7179639febdb15e372f411c=1596276753,1596383327,1596572150,1597419560; a2873925c34ecbd2_gr_session_id=748717e4-2a9f-4f0b-bbba-1f034c509634; a2873925c34ecbd2_gr_last_sent_sid_with_cs1=748717e4-2a9f-4f0b-bbba-1f034c509634; __asc=cd5e9e5f173edfc10ac83e4fd10; a2873925c34ecbd2_gr_session_id_748717e4-2a9f-4f0b-bbba-1f034c509634=true; LEETCODE_SESSION=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJuZXh0X2FmdGVyX29hdXRoIjoiLyIsIl9hdXRoX3VzZXJfaWQiOiIxNzg2NzgyIiwiX2F1dGhfdXNlcl9iYWNrZW5kIjoiZGphbmdvLmNvbnRyaWIuYXV0aC5iYWNrZW5kcy5Nb2RlbEJhY2tlbmQiLCJfYXV0aF91c2VyX2hhc2giOiIzZDgwNmJjYjE4ODVkODIzYzA4MmNjOGE4Yzk4ODFkNzk1Yzc3Y2EyIiwiaWQiOjE3ODY3ODIsImVtYWlsIjoiMzI1NzE3OTkxNEBxcS5jb20iLCJ1c2VybmFtZSI6InNoZW5ncWlhbmctemhhbmciLCJ1c2VyX3NsdWciOiJzaGVuZ3FpYW5nLXpoYW5nIiwiYXZhdGFyIjoiaHR0cHM6Ly9hc3NldHMubGVldGNvZGUtY24uY29tL2FsaXl1bi1sYy11cGxvYWQvdXNlcnMvc2hlbmdxaWFuZy16aGFuZy9hdmF0YXJfMTU5NDQ4MTkyMy5wbmciLCJwaG9uZV92ZXJpZmllZCI6dHJ1ZSwiX3RpbWVzdGFtcCI6MTU5NzQyOTUzNy41MzM4MDczfQ.MYWOSmoyEa79B2-VbsPxbXoe_QNNVGufGqazsZY2flg; Hm_lpvt_fa218a3ff7179639febdb15e372f411c=1597429539; a2873925c34ecbd2_gr_cs1=shengqiang-zhang"
 
 
@@ -170,7 +171,19 @@ if __name__ == '__main__':
         print(os.popen('git push', 'r').readlines())
 
 
-        # 等待12小时后重复运行以上步骤
+        # 等待360分钟后重复运行以上步骤
         print("已于{} 更新README.md文件".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
-        print("等待6小时后再次检测更新...")
-        time.sleep(6 * 3600)
+        print("等待360分钟后再次检测更新...")
+
+        # 每隔10分钟访问一次
+        # 定时访问，防止cookies失效
+        for i in range(0, 36):
+            time.sleep(10 * 60)
+            status_code_tmp, response_data_tmp = get_accepted_problems()
+            # 检测是否获取成功
+            if (status_code_tmp != requests.codes.ok or "errors" in response_data_tmp.keys()):
+                print("cookies失效了，请重新运行!")
+                print(response_data_tmp)
+                exit()
+
+
