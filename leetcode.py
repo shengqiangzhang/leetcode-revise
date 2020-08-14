@@ -169,7 +169,7 @@ if __name__ == '__main__':
         # 等待12小时后重复运行以上步骤
         print("已于{} 更新README.md文件".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
         print("等待12小时后再次检测更新...")
-        time.sleep(12 * 3600)
+        time.sleep(2+0*12 * 3600)
 
 
 
