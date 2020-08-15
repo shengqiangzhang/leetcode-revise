@@ -172,13 +172,13 @@ if __name__ == '__main__':
         print(os.popen("git push", 'r').readlines())
 
 
-        # 等待360分钟后重复运行以上步骤
+        # 等待60分钟后重复运行以上步骤
         print("已于{} 更新README.md文件".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
-        print("等待360分钟后再次检测更新...")
+        print("等待60分钟后再次检测更新...")
 
         # 每隔10分钟访问一次
         # 定时访问，防止cookies失效
-        for i in range(0, 36):
+        for i in range(0, 6):
             time.sleep(10 * 60)
             status_code_tmp, response_data_tmp = get_accepted_problems()
             # 检测是否获取成功
