@@ -7,11 +7,11 @@
    - Clone这个仓库到本地指定目录
    - 将`leetcode.py`放置于本仓库目录下
 4. 部署到后台服务器命令:
-  ```bash
-  nohup python -u leetcode.py > leetcode.log 2>&1 &
-  cat leetcode.log
-  exit
-```
+   ```bash
+   nohup python -u leetcode.py > leetcode.log 2>&1 &
+   cat leetcode.log
+   exit
+   ```
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
