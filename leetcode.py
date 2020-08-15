@@ -182,7 +182,7 @@ if __name__ == '__main__':
         # 每隔10分钟访问一次
         # 定时访问，防止cookies失效
         for i in range(0, 6):
-            time.sleep(10 * 60)
+            time.sleep(1+0*10 * 60)
             status_code_tmp, response_data_tmp = get_accepted_problems()
             # 检测是否获取成功
             if (status_code_tmp != requests.codes.ok or "errors" in response_data_tmp.keys()):
