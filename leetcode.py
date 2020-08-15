@@ -168,8 +168,8 @@ if __name__ == '__main__':
         # 若README.md文件与上次获取的一模一样，则Github不会提交到仓库
         # 忽略leetcode.log文件，即不add leetcode.log
         print(os.popen("git add --all -- ':!leetcode.log'", 'r').readlines())
-        print(os.popen('git commit -m "update"', 'r').readlines())
-        print(os.popen('git push', 'r').readlines())
+        print(os.popen("git commit -m 'update'", 'r').readlines())
+        print(os.popen("git push", 'r').readlines())
 
 
         # 等待360分钟后重复运行以上步骤
@@ -178,13 +178,13 @@ if __name__ == '__main__':
 
         # 每隔10分钟访问一次
         # 定时访问，防止cookies失效
-        # for i in range(0, 36):
-        #     time.sleep(10 * 60)
-        #     status_code_tmp, response_data_tmp = get_accepted_problems()
-        #     # 检测是否获取成功
-        #     if (status_code_tmp != requests.codes.ok or "errors" in response_data_tmp.keys()):
-        #         print("cookies失效了，请重新运行!")
-        #         print(response_data_tmp)
-        #         exit()
+        for i in range(0, 36):
+            time.sleep(10 * 60)
+            status_code_tmp, response_data_tmp = get_accepted_problems()
+            # 检测是否获取成功
+            if (status_code_tmp != requests.codes.ok or "errors" in response_data_tmp.keys()):
+                print("cookies失效了，请重新运行!")
+                print(response_data_tmp)
+                exit()
 
 
