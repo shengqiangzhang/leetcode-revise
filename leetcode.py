@@ -166,7 +166,8 @@ if __name__ == '__main__':
 
         # 提交到Github仓库
         # 若README.md文件与上次获取的一模一样，则Github不会提交到仓库
-        print(os.popen('git add .', 'r').readlines())
+        # 忽略leetcode.log文件，即不add leetcode.log
+        print(os.popen("git add --all -- ':!leetcode.log'", 'r').readlines())
         print(os.popen('git commit -m "update"', 'r').readlines())
         print(os.popen('git push', 'r').readlines())
 
