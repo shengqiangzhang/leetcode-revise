@@ -17,7 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2020-08-17 01:20 | [#剑指 Offer 57 - II 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof) | EASY | 4 | **2** |
+| 2020-08-17 01:24 | [#剑指 Offer 57 - II 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof) | EASY | 5 | **2** |
 | 2020-08-16 21:17 | [#剑指 Offer 60 n个骰子的点数](https://leetcode-cn.com/problems/nge-tou-zi-de-dian-shu-lcof) | EASY | 3 | 1 |
 | 2020-08-16 00:21 | [#剑指 Offer 59 - I 滑动窗口的最大值](https://leetcode-cn.com/problems/hua-dong-chuang-kou-de-zui-da-zhi-lcof) | EASY | 3 | 1 |
 | 2020-08-15 03:28 | [#剑指 Offer 58 - II 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof) | EASY | 8 | **2** |
