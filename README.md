@@ -17,7 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2020-08-18 21:41 | [#面试题 10.01 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci) | EASY | 6 | 1 |
+| 2020-08-18 22:16 | [#面试题 10.01 合并排序的数组](https://leetcode-cn.com/problems/sorted-merge-lcci) | EASY | 11 | 1 |
 | 2020-08-18 21:02 | [#892 三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes) | EASY | 3 | 1 |
 | 2020-08-18 18:15 | [#1071 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings) | EASY | 1 | 1 |
 | 2020-08-18 16:30 | [#836 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap) | EASY | 1 | 1 |
