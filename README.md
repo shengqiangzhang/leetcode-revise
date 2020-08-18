@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-08-18 18:15 | [#1071 字符串的最大公因子](https://leetcode-cn.com/problems/greatest-common-divisor-of-strings) | EASY | 1 | 1 |
 | 2020-08-18 16:30 | [#836 矩形重叠](https://leetcode-cn.com/problems/rectangle-overlap) | EASY | 1 | 1 |
 | 2020-08-18 01:11 | [#1114 按序打印](https://leetcode-cn.com/problems/print-in-order) | EASY | 2 | 1 |
 | 2020-08-18 00:54 | [#剑指 Offer 56 - I 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof) | MEDIUM | 1 | 1 |
