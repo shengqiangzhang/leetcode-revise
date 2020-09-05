@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-09-06 02:40 | [#107 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | EASY | 8 | **2** |
 | 2020-09-05 01:28 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | MEDIUM | 2 | 1 |
 | 2020-09-05 01:19 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 5 | 1 |
 | 2020-09-05 00:18 | [#剑指 Offer 26 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof) | MEDIUM | 11 | **2** |
@@ -148,7 +149,6 @@
 | 2020-07-18 02:24 | [#119 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | EASY | 4 | 1 |
 | 2020-07-18 02:13 | [#118 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | EASY | 1 | 1 |
 | 2020-07-14 23:46 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 3 | 1 |
-| 2020-07-14 23:24 | [#107 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | EASY | 7 | 1 |
 | 2020-07-14 23:02 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 6 | 1 |
 | 2020-07-14 17:15 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 4 | 1 |
 | 2020-07-14 16:23 | [#100 相同的树](https://leetcode-cn.com/problems/same-tree) | EASY | 1 | 1 |
