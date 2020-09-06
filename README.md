@@ -17,6 +17,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-09-07 01:35 | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | MEDIUM | 5 | 1 |
+| 2020-09-07 01:01 | [#146 LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 3 | 1 |
 | 2020-09-06 02:40 | [#107 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | EASY | 8 | **2** |
 | 2020-09-05 01:28 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | MEDIUM | 2 | 1 |
 | 2020-09-05 01:19 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 5 | 1 |
