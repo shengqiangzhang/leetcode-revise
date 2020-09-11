@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-09-12 00:05 | [#面试题 16.07 最大数值](https://leetcode-cn.com/problems/maximum-lcci) | EASY | 3 | 1 |
 | 2020-09-11 14:29 | [#面试题 03.02 栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci) | EASY | 2 | 1 |
 | 2020-09-11 14:17 | [#面试题 01.01 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci) | EASY | 6 | 1 |
 | 2020-09-11 13:28 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 1 | 1 |
