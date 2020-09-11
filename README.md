@@ -17,6 +17,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-09-11 14:11 | [#面试题 01.01 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci) | EASY | 4 | 1 |
+| 2020-09-11 13:28 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 1 | 1 |
 | 2020-09-11 12:57 | [#703 数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | EASY | 9 | **2** |
 | 2020-09-10 19:40 | [#179 最大数](https://leetcode-cn.com/problems/largest-number) | MEDIUM | 2 | 1 |
 | 2020-09-09 00:42 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 5 | 1 |
