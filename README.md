@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-09-14 20:02 | [#面试题 02.05 链表求和](https://leetcode-cn.com/problems/sum-lists-lcci) | MEDIUM | 2 | 1 |
 | 2020-09-14 00:53 | [#面试题 01.09 字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci) | EASY | 1 | 1 |
 | 2020-09-14 00:33 | [#面试题 16.05 阶乘尾数](https://leetcode-cn.com/problems/factorial-zeros-lcci) | EASY | 1 | 1 |
 | 2020-09-12 02:31 | [#面试题 16.07 最大数值](https://leetcode-cn.com/problems/maximum-lcci) | EASY | 12 | 1 |
