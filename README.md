@@ -17,7 +17,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2020-09-16 23:40 | [#面试题 17.16 按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci) | EASY | 2 | 1 |
+| 2020-09-17 01:45 | [#面试题 16.11 跳水板](https://leetcode-cn.com/problems/diving-board-lcci) | EASY | 5 | 1 |
+| 2020-09-17 01:19 | [#面试题 03.04 化栈为队](https://leetcode-cn.com/problems/implement-queue-using-stacks-lcci) | EASY | 2 | 1 |
+| 2020-09-17 01:04 | [#面试题 17.16 按摩师](https://leetcode-cn.com/problems/the-masseuse-lcci) | EASY | 4 | **2** |
 | 2020-09-15 11:22 | [#面试题 16.17 连续数列](https://leetcode-cn.com/problems/contiguous-sequence-lcci) | EASY | 3 | 1 |
 | 2020-09-14 20:02 | [#面试题 02.05 链表求和](https://leetcode-cn.com/problems/sum-lists-lcci) | MEDIUM | 2 | 1 |
 | 2020-09-14 00:53 | [#面试题 01.09 字符串轮转](https://leetcode-cn.com/problems/string-rotation-lcci) | EASY | 1 | 1 |
