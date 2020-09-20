@@ -17,10 +17,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-09-20 14:37 | [#LCP 22 黑白方格画](https://leetcode-cn.com/problems/ccw6C7) | EASY | 4 | **2** |
 | 2020-09-20 01:16 | [#1411 给 N x 3 网格图涂色的方案数](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid) | HARD | 5 | 1 |
 | 2020-09-19 22:39 | [#面试题 02.04 分割链表](https://leetcode-cn.com/problems/partition-list-lcci) | MEDIUM | 4 | 1 |
 | 2020-09-19 21:30 | [#面试题 01.07 旋转矩阵](https://leetcode-cn.com/problems/rotate-matrix-lcci) | MEDIUM | 1 | 1 |
-| 2020-09-19 16:06 | [#LCP 22 黑白方格画](https://leetcode-cn.com/problems/ccw6C7) | EASY | 3 | 1 |
 | 2020-09-18 21:04 | [#面试题 10.03 搜索旋转数组](https://leetcode-cn.com/problems/search-rotate-array-lcci) | MEDIUM | 2 | 1 |
 | 2020-09-18 15:57 | [#面试题 08.09 括号](https://leetcode-cn.com/problems/bracket-lcci) | MEDIUM | 2 | 1 |
 | 2020-09-17 01:45 | [#面试题 16.11 跳水板](https://leetcode-cn.com/problems/diving-board-lcci) | EASY | 5 | 1 |
