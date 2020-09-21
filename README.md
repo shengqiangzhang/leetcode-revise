@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-09-21 15:43 | [#面试题 16.14 最佳直线](https://leetcode-cn.com/problems/best-line-lcci) | MEDIUM | 13 | 1 |
 | 2020-09-21 02:20 | [#面试题 16.02 单词频率](https://leetcode-cn.com/problems/words-frequency-lcci) | MEDIUM | 1 | 1 |
 | 2020-09-21 02:08 | [#面试题 08.04 幂集](https://leetcode-cn.com/problems/power-set-lcci) | MEDIUM | 6 | 1 |
 | 2020-09-20 14:37 | [#LCP 22 黑白方格画](https://leetcode-cn.com/problems/ccw6C7) | EASY | 4 | **2** |
