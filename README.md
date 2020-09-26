@@ -17,7 +17,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2020-09-27 02:25 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | EASY | 5 | 1 |
+| 2020-09-27 02:44 | [#1265 逆序打印不可变链表](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse) | MEDIUM | 2 | 1 |
+| 2020-09-27 02:32 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | EASY | 7 | 1 |
 | 2020-09-27 01:59 | [#面试题 16.02 单词频率](https://leetcode-cn.com/problems/words-frequency-lcci) | MEDIUM | 5 | **2** |
 | 2020-09-27 01:35 | [#208 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | MEDIUM | 1 | 1 |
 | 2020-09-26 20:39 | [#113 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | MEDIUM | 4 | 1 |
