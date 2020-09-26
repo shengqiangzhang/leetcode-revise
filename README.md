@@ -133,7 +133,7 @@
 | 2020-07-31 15:04 | [#371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers) | EASY | 1 | 1 |
 | 2020-07-31 14:42 | [#268 缺失数字](https://leetcode-cn.com/problems/missing-number) | EASY | 10 | 1 |
 | 2020-07-31 13:53 | [#169 多数元素](https://leetcode-cn.com/problems/majority-element) | EASY | 6 | **2** |
-| 2020-07-29 21:24 | [#538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | EASY | 3 | 1 |
+| 2020-07-29 21:24 | [#538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | MEDIUM | 3 | 1 |
 | 2020-07-29 01:53 | [#189 旋转数组](https://leetcode-cn.com/problems/rotate-array) | EASY | 4 | 1 |
 | 2020-07-29 00:49 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | MEDIUM | 7 | **2** |
 | 2020-07-28 23:43 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | EASY | 15 | 1 |
