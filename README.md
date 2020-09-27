@@ -17,6 +17,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-09-27 12:09 | [#5524 经营摩天轮的最大利润](https://leetcode-cn.com/problems/maximum-profit-of-operating-a-centennial-wheel) | MEDIUM | 7 | 1 |
+| 2020-09-27 10:48 | [#5523 文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder) | EASY | 2 | 1 |
 | 2020-09-27 02:44 | [#1265 逆序打印不可变链表](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse) | MEDIUM | 2 | 1 |
 | 2020-09-27 02:32 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | EASY | 7 | 1 |
 | 2020-09-27 01:59 | [#面试题 16.02 单词频率](https://leetcode-cn.com/problems/words-frequency-lcci) | MEDIUM | 5 | **2** |
