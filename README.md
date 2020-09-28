@@ -19,8 +19,8 @@
 | ---- | ---- | ---- | ---- | ---- |
 | 2020-09-28 02:13 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 5 | 1 |
 | 2020-09-27 18:31 | [#235 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree) | EASY | 3 | 1 |
-| 2020-09-27 12:09 | [#5524 经营摩天轮的最大利润](https://leetcode-cn.com/problems/maximum-profit-of-operating-a-centennial-wheel) | MEDIUM | 7 | 1 |
-| 2020-09-27 10:48 | [#5523 文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder) | EASY | 2 | 1 |
+| 2020-09-27 12:09 | [#1599 经营摩天轮的最大利润](https://leetcode-cn.com/problems/maximum-profit-of-operating-a-centennial-wheel) | MEDIUM | 7 | 1 |
+| 2020-09-27 10:48 | [#1598 文件夹操作日志搜集器](https://leetcode-cn.com/problems/crawler-log-folder) | EASY | 2 | 1 |
 | 2020-09-27 02:44 | [#1265 逆序打印不可变链表](https://leetcode-cn.com/problems/print-immutable-linked-list-in-reverse) | MEDIUM | 2 | 1 |
 | 2020-09-27 02:32 | [#278 第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version) | EASY | 7 | 1 |
 | 2020-09-27 01:59 | [#面试题 16.02 单词频率](https://leetcode-cn.com/problems/words-frequency-lcci) | MEDIUM | 5 | **2** |
