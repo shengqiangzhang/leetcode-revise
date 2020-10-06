@@ -17,10 +17,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-10-06 12:49 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 5 | **2** |
 | 2020-10-05 23:45 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 1 | 1 |
 | 2020-10-04 01:01 | [#1604 警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) | MEDIUM | 11 | 1 |
 | 2020-10-03 23:17 | [#1603 设计停车系统](https://leetcode-cn.com/problems/design-parking-system) | EASY | 1 | 1 |
-| 2020-10-03 00:00 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 3 | 1 |
 | 2020-09-30 13:40 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 3 | 1 |
 | 2020-09-29 02:03 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 10 | 1 |
 | 2020-09-29 01:06 | [#117 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii) | MEDIUM | 4 | **2** |
