@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-10-09 03:22 | [#230 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) | MEDIUM | 3 | 1 |
 | 2020-10-09 02:32 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 4 | 1 |
 | 2020-10-08 17:45 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 8 | **2** |
 | 2020-10-08 17:36 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 2 | 1 |
