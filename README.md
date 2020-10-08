@@ -17,10 +17,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-10-08 17:45 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 8 | **2** |
 | 2020-10-08 17:36 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 2 | 1 |
 | 2020-10-08 17:25 | [#647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | MEDIUM | 7 | 1 |
 | 2020-10-08 01:37 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 2 | 1 |
-| 2020-10-08 00:42 | [#344 反转字符串](https://leetcode-cn.com/problems/reverse-string) | EASY | 7 | **2** |
 | 2020-10-07 22:48 | [#739 每日温度](https://leetcode-cn.com/problems/daily-temperatures) | MEDIUM | 9 | 1 |
 | 2020-10-07 21:28 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 10 | 1 |
 | 2020-10-07 17:26 | [#287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | MEDIUM | 3 | 1 |
