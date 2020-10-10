@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-10-10 22:17 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | MEDIUM | 11 | 1 |
 | 2020-10-10 16:54 | [#49 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | MEDIUM | 6 | 1 |
 | 2020-10-10 01:48 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | MEDIUM | 1 | 1 |
 | 2020-10-10 01:07 | [#62 不同路径](https://leetcode-cn.com/problems/unique-paths) | MEDIUM | 2 | 1 |
