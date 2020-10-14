@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-10-15 02:30 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | MEDIUM | 4 | 1 |
 | 2020-10-14 01:09 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 18 | **2** |
 | 2020-10-12 14:45 | [#289 生命游戏](https://leetcode-cn.com/problems/game-of-life) | MEDIUM | 3 | **2** |
 | 2020-10-11 22:28 | [#279 完全平方数](https://leetcode-cn.com/problems/perfect-squares) | MEDIUM | 11 | 1 |
