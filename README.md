@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-10-16 01:01 | [#977 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | EASY | 2 | 1 |
 | 2020-10-15 22:58 | [#410 分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum) | HARD | 4 | 1 |
 | 2020-10-15 02:30 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | MEDIUM | 4 | 1 |
 | 2020-10-14 01:09 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 18 | **2** |
