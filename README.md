@@ -17,7 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2020-10-21 17:07 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | MEDIUM | 3 | 1 |
+| 2020-10-21 17:11 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | MEDIUM | 4 | 1 |
 | 2020-10-19 20:25 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | 1 |
 | 2020-10-18 10:41 | [#1624 两个相同字符之间的最长子字符串](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters) | EASY | 2 | 1 |
 | 2020-10-17 23:45 | [#1620 网络信号最好的坐标](https://leetcode-cn.com/problems/coordinate-with-maximum-network-quality) | MEDIUM | 5 | 1 |
