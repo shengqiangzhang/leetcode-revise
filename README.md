@@ -89,7 +89,7 @@
 | 2020-09-11 14:29 | [#面试题 03.02 栈的最小值](https://leetcode-cn.com/problems/min-stack-lcci) | EASY | 2 | 1 |
 | 2020-09-11 14:17 | [#面试题 01.01 判定字符是否唯一](https://leetcode-cn.com/problems/is-unique-lcci) | EASY | 6 | 1 |
 | 2020-09-11 13:28 | [#347 前 K 个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements) | MEDIUM | 1 | 1 |
-| 2020-09-11 12:57 | [#703 数据流中的第K大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | EASY | 9 | **2** |
+| 2020-09-11 12:57 | [#703 数据流中的第 K 大元素](https://leetcode-cn.com/problems/kth-largest-element-in-a-stream) | EASY | 9 | **2** |
 | 2020-09-10 19:40 | [#179 最大数](https://leetcode-cn.com/problems/largest-number) | MEDIUM | 2 | 1 |
 | 2020-09-09 00:42 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 5 | 1 |
 | 2020-09-07 01:35 | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | MEDIUM | 5 | 1 |
