@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-10-26 02:31 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 2 | 1 |
 | 2020-10-25 16:41 | [#50 Pow(x, n)](https://leetcode-cn.com/problems/powx-n) | MEDIUM | 4 | 1 |
 | 2020-10-25 01:42 | [#221 最大正方形](https://leetcode-cn.com/problems/maximal-square) | MEDIUM | 3 | 1 |
 | 2020-10-24 23:05 | [#121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | EASY | 6 | **2** |
