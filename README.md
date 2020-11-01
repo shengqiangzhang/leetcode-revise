@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-11-02 02:51 | [#621 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | MEDIUM | 5 | 1 |
 | 2020-11-01 12:35 | [#5555 统计字典序元音字符串的数目](https://leetcode-cn.com/problems/count-sorted-vowel-strings) | MEDIUM | 7 | 1 |
 | 2020-11-01 10:51 | [#5554 能否连接形成数组](https://leetcode-cn.com/problems/check-array-formation-through-concatenation) | EASY | 1 | 1 |
 | 2020-11-01 00:09 | [#5540 两点之间不包含任何点的最宽垂直面积](https://leetcode-cn.com/problems/widest-vertical-area-between-two-points-containing-no-points) | MEDIUM | 7 | 1 |
