@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-11-14 15:30 | [#384 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array) | MEDIUM | 2 | 1 |
 | 2020-11-13 00:25 | [#628 三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers) | EASY | 5 | **2** |
 | 2020-11-06 22:15 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | MEDIUM | 2 | 1 |
 | 2020-11-06 17:22 | [#19 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | MEDIUM | 3 | 1 |
