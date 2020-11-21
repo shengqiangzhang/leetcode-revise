@@ -17,13 +17,15 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2020-11-14 22:46 | [#5550 拆炸弹](https://leetcode-cn.com/problems/defuse-the-bomb) | EASY | 1 | 1 |
+| 2020-11-22 02:12 | [#621 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | MEDIUM | 6 | **2** |
+| 2020-11-15 11:31 | [#1657 确定两个字符串是否接近](https://leetcode-cn.com/problems/determine-if-two-strings-are-close) | MEDIUM | 2 | 1 |
+| 2020-11-15 11:00 | [#1656 设计有序流](https://leetcode-cn.com/problems/design-an-ordered-stream) | EASY | 3 | 1 |
+| 2020-11-14 22:46 | [#1652 拆炸弹](https://leetcode-cn.com/problems/defuse-the-bomb) | EASY | 1 | 1 |
 | 2020-11-14 15:30 | [#384 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array) | MEDIUM | 2 | 1 |
 | 2020-11-13 00:25 | [#628 三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers) | EASY | 5 | **2** |
 | 2020-11-06 22:15 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | MEDIUM | 2 | 1 |
 | 2020-11-06 17:22 | [#19 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | MEDIUM | 3 | 1 |
 | 2020-11-06 16:36 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 3 | 1 |
-| 2020-11-02 02:51 | [#621 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | MEDIUM | 5 | 1 |
 | 2020-11-01 12:35 | [#1641 统计字典序元音字符串的数目](https://leetcode-cn.com/problems/count-sorted-vowel-strings) | MEDIUM | 7 | 1 |
 | 2020-11-01 10:51 | [#1640 能否连接形成数组](https://leetcode-cn.com/problems/check-array-formation-through-concatenation) | EASY | 1 | 1 |
 | 2020-11-01 00:09 | [#1637 两点之间不包含任何点的最宽垂直面积](https://leetcode-cn.com/problems/widest-vertical-area-between-two-points-containing-no-points) | MEDIUM | 7 | 1 |
@@ -114,7 +116,7 @@
 | 2020-09-10 19:40 | [#179 最大数](https://leetcode-cn.com/problems/largest-number) | MEDIUM | 2 | 1 |
 | 2020-09-09 00:42 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 5 | 1 |
 | 2020-09-07 01:35 | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | MEDIUM | 5 | 1 |
-| 2020-09-07 01:01 | [#146 LRU缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 3 | 1 |
+| 2020-09-07 01:01 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 3 | 1 |
 | 2020-09-06 02:40 | [#107 二叉树的层次遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | EASY | 8 | **2** |
 | 2020-09-05 01:28 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | MEDIUM | 2 | 1 |
 | 2020-09-05 01:19 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 5 | 1 |
