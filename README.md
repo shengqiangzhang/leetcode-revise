@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-11-22 02:42 | [#1658 将 x 减到 0 的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero) | MEDIUM | 27 | 1 |
 | 2020-11-22 02:12 | [#621 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | MEDIUM | 6 | **2** |
 | 2020-11-15 11:31 | [#1657 确定两个字符串是否接近](https://leetcode-cn.com/problems/determine-if-two-strings-are-close) | MEDIUM | 2 | 1 |
 | 2020-11-15 11:00 | [#1656 设计有序流](https://leetcode-cn.com/problems/design-an-ordered-stream) | EASY | 3 | 1 |
