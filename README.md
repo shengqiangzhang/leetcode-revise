@@ -17,7 +17,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2020-11-26 00:33 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 7 | 1 |
+| 2020-11-26 01:28 | [#560 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | MEDIUM | 1 | 1 |
+| 2020-11-26 01:21 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 12 | **2** |
 | 2020-11-23 14:11 | [#56 合并区间](https://leetcode-cn.com/problems/merge-intervals) | MEDIUM | 6 | 1 |
 | 2020-11-23 01:26 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 4 | 1 |
 | 2020-11-22 17:50 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 4 | 1 |
