@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-11-26 20:51 | [#241 为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) | MEDIUM | 1 | 1 |
 | 2020-11-26 01:28 | [#560 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | MEDIUM | 1 | 1 |
 | 2020-11-26 01:21 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 12 | **2** |
 | 2020-11-23 14:11 | [#56 合并区间](https://leetcode-cn.com/problems/merge-intervals) | MEDIUM | 6 | 1 |
