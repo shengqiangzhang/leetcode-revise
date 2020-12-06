@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-12-06 17:20 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | MEDIUM | 6 | 1 |
 | 2020-12-06 02:57 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 7 | 1 |
 | 2020-12-06 01:47 | [#166 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | MEDIUM | 2 | 1 |
 | 2020-12-05 22:55 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 6 | 1 |
