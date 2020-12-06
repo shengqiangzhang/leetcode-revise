@@ -17,6 +17,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-12-06 21:53 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 1 | 1 |
+| 2020-12-06 21:28 | [#91 解码方法](https://leetcode-cn.com/problems/decode-ways) | MEDIUM | 15 | 1 |
 | 2020-12-06 17:20 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | MEDIUM | 6 | 1 |
 | 2020-12-06 02:57 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 7 | 1 |
 | 2020-12-06 01:47 | [#166 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | MEDIUM | 2 | 1 |
