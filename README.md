@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-12-09 01:48 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 4 | 1 |
 | 2020-12-08 02:35 | [#300 最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | MEDIUM | 8 | 1 |
 | 2020-12-07 00:06 | [#378 有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | MEDIUM | 2 | **2** |
 | 2020-12-06 21:53 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 1 | 1 |
