@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-12-12 03:44 | [#152 乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray) | MEDIUM | 5 | 1 |
 | 2020-12-11 02:09 | [#210 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii) | MEDIUM | 2 | 1 |
 | 2020-12-11 01:44 | [#207 课程表](https://leetcode-cn.com/problems/course-schedule) | MEDIUM | 2 | 1 |
 | 2020-12-10 02:26 | [#36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku) | MEDIUM | 2 | 1 |
