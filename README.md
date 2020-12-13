@@ -17,6 +17,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2020-12-14 02:06 | [#380 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) | MEDIUM | 4 | 1 |
 | 2020-12-13 02:17 | [#227 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii) | MEDIUM | 14 | 1 |
 | 2020-12-12 22:43 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | MEDIUM | 5 | 1 |
 | 2020-12-12 21:44 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 19 | **3** |
