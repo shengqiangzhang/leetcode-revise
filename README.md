@@ -55,7 +55,7 @@
 | 2020-12-06 02:57 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 7 | 1 |
 | 2020-12-06 01:47 | [#166 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | MEDIUM | 2 | 1 |
 | 2020-12-05 22:55 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 6 | 1 |
-| 2020-12-05 21:35 | [#127 单词接龙](https://leetcode-cn.com/problems/word-ladder) | MEDIUM | 3 | 1 |
+| 2020-12-05 21:35 | [#127 单词接龙](https://leetcode-cn.com/problems/word-ladder) | HARD | 3 | 1 |
 | 2020-12-05 16:54 | [#134 加油站](https://leetcode-cn.com/problems/gas-station) | MEDIUM | 6 | **2** |
 | 2020-12-01 02:01 | [#560 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | MEDIUM | 3 | **3** |
 | 2020-11-30 21:39 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | MEDIUM | 11 | 1 |
