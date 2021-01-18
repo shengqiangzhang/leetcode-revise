@@ -78,7 +78,7 @@
 | 2020-11-14 15:30 | [#384 打乱数组](https://leetcode-cn.com/problems/shuffle-an-array) | MEDIUM | 2 | 1 |
 | 2020-11-13 00:25 | [#628 三个数的最大乘积](https://leetcode-cn.com/problems/maximum-product-of-three-numbers) | EASY | 5 | **2** |
 | 2020-11-06 22:15 | [#438 找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string) | MEDIUM | 2 | 1 |
-| 2020-11-06 17:22 | [#19 删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | MEDIUM | 3 | 1 |
+| 2020-11-06 17:22 | [#19 删除链表的倒数第 N 个结点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list) | MEDIUM | 3 | 1 |
 | 2020-11-06 16:36 | [#17 电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number) | MEDIUM | 3 | 1 |
 | 2020-11-01 12:35 | [#1641 统计字典序元音字符串的数目](https://leetcode-cn.com/problems/count-sorted-vowel-strings) | MEDIUM | 7 | 1 |
 | 2020-11-01 10:51 | [#1640 能否连接形成数组](https://leetcode-cn.com/problems/check-array-formation-through-concatenation) | EASY | 1 | 1 |
