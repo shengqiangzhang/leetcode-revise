@@ -33,7 +33,7 @@
 | 2020-12-20 23:21 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 5 | 1 |
 | 2020-12-20 22:19 | [#348 判定井字棋胜负](https://leetcode-cn.com/problems/design-tic-tac-toe) | MEDIUM | 7 | 1 |
 | 2020-12-20 17:28 | [#277 搜寻名人](https://leetcode-cn.com/problems/find-the-celebrity) | MEDIUM | 2 | 1 |
-| 2020-12-20 16:16 | [#163 缺失的区间](https://leetcode-cn.com/problems/missing-ranges) | MEDIUM | 2 | 1 |
+| 2020-12-20 16:16 | [#163 缺失的区间](https://leetcode-cn.com/problems/missing-ranges) | EASY | 2 | 1 |
 | 2020-12-20 15:56 | [#285 二叉搜索树中的顺序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst) | MEDIUM | 11 | 1 |
 | 2020-12-20 03:13 | [#324 摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii) | MEDIUM | 5 | 1 |
 | 2020-12-16 02:38 | [#454 四数相加 II](https://leetcode-cn.com/problems/4sum-ii) | MEDIUM | 2 | 1 |
@@ -108,7 +108,7 @@
 | 2020-10-11 20:19 | [#79 单词搜索](https://leetcode-cn.com/problems/word-search) | MEDIUM | 1 | 1 |
 | 2020-10-11 17:17 | [#337 打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii) | MEDIUM | 7 | 1 |
 | 2020-10-11 16:15 | [#213 打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii) | MEDIUM | 4 | 1 |
-| 2020-10-11 15:41 | [#198 打家劫舍](https://leetcode-cn.com/problems/house-robber) | EASY | 6 | **2** |
+| 2020-10-11 15:41 | [#198 打家劫舍](https://leetcode-cn.com/problems/house-robber) | MEDIUM | 6 | **2** |
 | 2020-10-11 00:47 | [#139 单词拆分](https://leetcode-cn.com/problems/word-break) | MEDIUM | 16 | **2** |
 | 2020-10-10 16:54 | [#49 字母异位词分组](https://leetcode-cn.com/problems/group-anagrams) | MEDIUM | 6 | 1 |
 | 2020-10-10 01:48 | [#437 路径总和 III](https://leetcode-cn.com/problems/path-sum-iii) | MEDIUM | 1 | 1 |
