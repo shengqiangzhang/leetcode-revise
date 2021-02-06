@@ -35,9 +35,7 @@ jobs:
 
       - name: Get LeetCode Data
         run: python leetcode.py ${{ secrets.LEETCODE_EMAIL }} ${{ secrets.LEETCODE_PASSWORD }}
-
-
-
+        
       - name: commit
         run: |
           git config --global user.email sqzhang77@gmail.com
