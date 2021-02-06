@@ -167,22 +167,20 @@ def generate_markdown_text(response_data, session):
 if __name__ == '__main__':
 
 
-    # 循环运行
-    while True:
+   # 登录
+    session = login("3257179914@qq.com", "ZSQzsq123")
 
-        # 登录
-        session = login("3257179914@qq.com", "ZSQzsq123")
+    # 获取所有通过的题目列表
+    response_data = get_accepted_problems(session)
+    time.sleep(3)
 
-        # 获取所有通过的题目列表
-        response_data = get_accepted_problems(session)
-        time.sleep(3)
+    # 生成Markdown文本
+    markdown_text = generate_markdown_text(response_data, session)
 
-        # 生成Markdown文本
-        markdown_text = generate_markdown_text(response_data, session)
-
-        # 更新README.md文件
-        with open("README.md", "w") as f:
-            f.write(markdown_text)
+    # 更新README.md文件
+    with open("README.md", "w") as f:
+        f.write(markdown_text)
+ 
 
         # # 提交到Github仓库
         # # 若README.md文件与上次获取的一模一样，则Github不会提交到仓库
