@@ -42,3 +42,5 @@ jobs:
         with:
           github-token: ${{ secrets.LEETCODE_TOKEN }}
           commit-message: "Add new data"
+          name: 'shengqiangzhang'
+          email: 'sqzhang77@gmail.com'
