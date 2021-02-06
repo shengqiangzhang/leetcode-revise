@@ -5,13 +5,14 @@
         - Name:LEETCODE_EMAIL  Value:你的LeetCode账号
         - Name:LEETCODE_PASSWORD  Value:你的LeetCode密码
     - 点击[tokens](https://github.com/settings/tokens)->Generate new token
-        - Note:LEETCODE_TOKEN
+        - Note:GITHUB_TOKEN
         - Select scopes:建议全部勾选
 
 > 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-06 14:03 | [#剑指 Offer 51 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof) | HARD | 2 | 1 |
 | 2021-02-05 10:45 | [#剑指 Offer 67 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof) | MEDIUM | 4 | 1 |
 | 2021-02-05 09:51 | [#剑指 Offer 48 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof) | MEDIUM | 7 | 1 |
 | 2021-01-14 16:51 | [#剑指 Offer 44 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof) | MEDIUM | 3 | 1 |
