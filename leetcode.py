@@ -110,7 +110,7 @@ def generate_markdown_text(response_data, session):
     markdown_text += "        - Name:LEETCODE_EMAIL  Value:你的LeetCode账号\n"
     markdown_text += "        - Name:LEETCODE_PASSWORD  Value:你的LeetCode密码\n"
     markdown_text += "    - 点击[tokens](https://github.com/settings/tokens)->Generate new token\n"
-    markdown_text += "        - Note:LEETCODE_TOKEN\n"
+    markdown_text += "        - Note:GITHUB_TOKEN\n"
     markdown_text += "        - Select scopes:建议全部勾选\n"
     markdown_text += "\n"
     markdown_text += "> 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数\n"
