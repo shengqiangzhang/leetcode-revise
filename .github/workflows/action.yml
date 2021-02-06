@@ -3,7 +3,7 @@ name: 'GitHub LeetCode Bot'
 on:
   push:
   schedule:
-    - cron: '*/5 * * * *'
+    - cron: '*/1440 * * * *'
 
 jobs:
   bot:
@@ -48,4 +48,4 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN}}
+          github_token: ${{ secrets.LEETCODE_TOKEN}}
