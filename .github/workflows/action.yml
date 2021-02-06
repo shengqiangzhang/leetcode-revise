@@ -31,4 +31,4 @@ jobs:
 
 
       - name: 'Get LeetCode Data'
-        run: python leetcode.py ${{ secrets.RUNTASTIC_EMAIL }} ${{ secrets.RUNTASTIC_PASSWORD }}
+        run: python leetcode.py ${{ secrets.LEETCODE_EMAIL }} ${{ secrets.LEETCODE_PASSWORD }}
