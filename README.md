@@ -1,17 +1,12 @@
 ## 部署步骤
-1. 安装Python3, https://www.python.org/downloads/
-2. 配置Github
-   - 安装Git, https://git-scm.com/downloads
-   - 在Github上创建一个新仓库
-   - 配置Github SSH,  https://www.cnblogs.com/qlqwjy/p/8574456.html
-   - Clone这个仓库到本地指定目录
-   - 将`leetcode.py`放置于本仓库目录下
-3. 部署到后台服务器命令:
-   ```bash
-   nohup python -u leetcode.py > leetcode.log 2>&1 &
-   cat leetcode.log
-   exit
-   ```
+1. Fork本仓库
+2. 配置GitHub Actions所需的账号密码
+    - 点击仓库下的Settings->Secrets->New repository secret, 分别添加以下secret
+        - Name:LEETCODE_EMAIL  Value:你的LeetCode账号
+        - Name:LEETCODE_PASSWORD  Value:你的LeetCode密码
+    - 点击[tokens](https://github.com/settings/tokens)->Generate new token
+        - Note:LEETCODE_TOKEN
+        - Select scopes:建议全部勾选
 
 > 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数
 

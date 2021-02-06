@@ -12,7 +12,7 @@ jobs:
       - name: 'Checkout codes'
         uses: actions/checkout@v1
 
-      - name: 'Set up Python'
+      - name: Set up Python
         uses: actions/setup-python@v1
         with:
           python-version: 3.6
@@ -33,5 +33,12 @@ jobs:
         if: steps.pip-cache.outputs.cache-hit != 'true'
 
 
-      - name: 'Get LeetCode Data'
+      - name: Get LeetCode Data
         run: python leetcode.py ${{ secrets.LEETCODE_EMAIL }} ${{ secrets.LEETCODE_PASSWORD }}
+
+
+      - name: Push new commit
+        uses: github-actions-x/commit@v2.6
+        with:
+          github-token: ${{ secrets.LEETCODE_TOKEN }}
+          commit-message: "Add new data"

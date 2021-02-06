@@ -9,12 +9,14 @@
 @mail: sqzhang77@gmail.com
 """
 
+import sys
 import requests
 from requests.adapters import HTTPAdapter
 requests.packages.urllib3.disable_warnings()
 import os
 import json
 import time
+
 
 
 
@@ -102,18 +104,14 @@ def generate_markdown_text(response_data, session):
     # 部署方法
     response_data = response_data['data']['userProfileQuestions']['questions']
     markdown_text =  "## 部署步骤\n"
-    markdown_text += "1. 安装Python3, https://www.python.org/downloads/\n"
-    markdown_text += "2. 配置Github\n"
-    markdown_text += "   - 安装Git, https://git-scm.com/downloads\n"
-    markdown_text += "   - 在Github上创建一个新仓库\n"
-    markdown_text += "   - 将`leetcode.py`放置于本仓库目录下\n"
-    markdown_text += "   - 配置Github SSH,  https://www.cnblogs.com/qlqwjy/p/8574456.html\n"
-    markdown_text += "3. 部署到后台服务器命令:\n"
-    markdown_text += "   ```bash\n"
-    markdown_text += "   nohup python -u leetcode.py > leetcode.log 2>&1 &\n"
-    markdown_text += "   cat leetcode.log\n"
-    markdown_text += "   exit\n"
-    markdown_text += "   ```\n"
+    markdown_text += "1. Fork本仓库\n"
+    markdown_text += "2. 配置GitHub Actions所需的参数\n"
+    markdown_text += "    - 点击仓库下的Settings->Secrets->New repository secret, 分别添加以下secret\n"
+    markdown_text += "        - Name:LEETCODE_EMAIL  Value:你的LeetCode账号\n"
+    markdown_text += "        - Name:LEETCODE_PASSWORD  Value:你的LeetCode密码\n"
+    markdown_text += "    - 点击[tokens](https://github.com/settings/tokens)->Generate new token\n"
+    markdown_text += "        - Note:LEETCODE_TOKEN\n"
+    markdown_text += "        - Select scopes:建议全部勾选\n"
     markdown_text += "\n"
     markdown_text += "> 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数\n"
     markdown_text += "\n"
@@ -165,36 +163,10 @@ def generate_markdown_text(response_data, session):
 
 
 if __name__ == '__main__':
-
-
-   # 登录
-    session = login("3257179914@qq.com", "ZSQzsq123")
-
-    # 获取所有通过的题目列表
-    response_data = get_accepted_problems(session)
-    time.sleep(3)
-
-    # 生成Markdown文本
-    markdown_text = generate_markdown_text(response_data, session)
+    session = login(sys.argv[1], sys.argv[2]) # 登录
+    response_data = get_accepted_problems(session) # 获取所有通过的题目列表
+    markdown_text = generate_markdown_text(response_data, session) # 生成Markdown文本
 
     # 更新README.md文件
     with open("README.md", "w") as f:
         f.write(markdown_text)
- 
-
-        # # 提交到Github仓库
-        # # 若README.md文件与上次获取的一模一样，则Github不会提交到仓库
-        # # 忽略leetcode.log文件，即不add leetcode.log
-        # print(os.popen("git add -u", 'r').readlines())
-        # print(os.popen("git reset -- leetcode.log", 'r').readlines())
-        # print(os.popen("git commit -m 'update'", 'r').readlines())
-        # print(os.popen("git push", 'r').readlines())
-
-
-        # # 等待60分钟后重复运行以上步骤
-        # print("已于{} 更新README.md文件".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
-        # print("等待60分钟后再次检测更新...")
-
-        # # 每隔60分钟访问一次
-        # time.sleep(0.1 * 60)
-
