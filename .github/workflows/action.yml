@@ -36,14 +36,10 @@ jobs:
       - name: Get LeetCode Data
         run: python leetcode.py ${{ secrets.LEETCODE_EMAIL }} ${{ secrets.LEETCODE_PASSWORD }}
         
-      - name: commit
-        run: |
-          git config --global user.email sqzhang77@gmail.com
-          git config --global user.name shengqiangzhang
-          git add .
-          git commit -m "update" -a
-          
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+
+
+      - name: Push new commit
+        uses: github-actions-x/commit@v2.6
         with:
-          github_token: ${{ secrets.LEETCODE_TOKEN }}
+          github-token: ${{ secrets.LEETCODE_TOKEN }}
+          commit-message: "Add new data"
