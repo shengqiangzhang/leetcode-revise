@@ -33,9 +33,8 @@ jobs:
         if: steps.pip-cache.outputs.cache-hit != 'true'
 
 
-      # - name: Get LeetCode Data
-      #   run: python leetcode.py ${{ secrets.LEETCODE_EMAIL }} ${{ secrets.LEETCODE_PASSWORD }}
-        
+      - name: Get LeetCode Data
+        run: python leetcode.py ${{ secrets.LEETCODE_EMAIL }} ${{ secrets.LEETCODE_PASSWORD }}
 
 
       - name: commit
