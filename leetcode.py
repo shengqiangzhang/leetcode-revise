@@ -184,19 +184,19 @@ if __name__ == '__main__':
         with open("README.md", "w") as f:
             f.write(markdown_text)
 
-        # 提交到Github仓库
-        # 若README.md文件与上次获取的一模一样，则Github不会提交到仓库
-        # 忽略leetcode.log文件，即不add leetcode.log
-        print(os.popen("git add -u", 'r').readlines())
-        print(os.popen("git reset -- leetcode.log", 'r').readlines())
-        print(os.popen("git commit -m 'update'", 'r').readlines())
-        print(os.popen("git push", 'r').readlines())
+        # # 提交到Github仓库
+        # # 若README.md文件与上次获取的一模一样，则Github不会提交到仓库
+        # # 忽略leetcode.log文件，即不add leetcode.log
+        # print(os.popen("git add -u", 'r').readlines())
+        # print(os.popen("git reset -- leetcode.log", 'r').readlines())
+        # print(os.popen("git commit -m 'update'", 'r').readlines())
+        # print(os.popen("git push", 'r').readlines())
 
 
-        # 等待60分钟后重复运行以上步骤
-        print("已于{} 更新README.md文件".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
-        print("等待60分钟后再次检测更新...")
+        # # 等待60分钟后重复运行以上步骤
+        # print("已于{} 更新README.md文件".format(time.strftime("%Y-%m-%d %H:%M:%S", time.localtime())))
+        # print("等待60分钟后再次检测更新...")
 
-        # 每隔60分钟访问一次
-        time.sleep(0.1 * 60)
+        # # 每隔60分钟访问一次
+        # time.sleep(0.1 * 60)
 
