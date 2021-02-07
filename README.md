@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-07 10:11 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 11 | **2** |
 | 2021-02-07 08:54 | [#面试题 08.11 硬币](https://leetcode-cn.com/problems/coin-lcci) | MEDIUM | 4 | 1 |
 | 2021-02-06 17:52 | [#剑指 Offer 19 正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | HARD | 3 | 1 |
 | 2021-02-06 14:56 | [#剑指 Offer 43 1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof) | HARD | 3 | 1 |
@@ -70,7 +71,6 @@
 | 2020-12-06 09:20 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | MEDIUM | 6 | 1 |
 | 2020-12-05 18:57 | [#33 搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array) | MEDIUM | 7 | 1 |
 | 2020-12-05 17:47 | [#166 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | MEDIUM | 2 | 1 |
-| 2020-12-05 14:55 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 6 | 1 |
 | 2020-12-05 13:35 | [#127 单词接龙](https://leetcode-cn.com/problems/word-ladder) | HARD | 3 | 1 |
 | 2020-12-05 08:54 | [#134 加油站](https://leetcode-cn.com/problems/gas-station) | MEDIUM | 6 | **2** |
 | 2020-11-30 18:01 | [#560 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | MEDIUM | 3 | **3** |
