@@ -117,7 +117,7 @@ def generate_markdown_text(response_data, session):
     markdown_text += "        - Select scopes:建议全部勾选\n"
     markdown_text += "    - 修改[action.yml](.github/workflows/action.yml)文件的第`42行`, 将`email`更改为你的GitHub邮箱地址\n"
     markdown_text += "    - 修改[action.yml](.github/workflows/action.yml)文件的第`43行`, 将`name`更改为你的GitHub用户名\n"
-    markdown_text += "3. 默认配置为1440分钟(24小时)更新一次，可根据需求修改[action.yml](.github/workflows/action.yml)文件的第`6行`\n"
+    markdown_text += "3. 默认配置为12小时更新一次，可根据需求修改[action.yml](.github/workflows/action.yml)文件的第`6行`\n"
     markdown_text +=  "## 补充说明\n"
     markdown_text += "如有其他需求, 欢迎提交PR。\n"
     markdown_text += "\n\n"
