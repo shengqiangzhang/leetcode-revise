@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-09 06:56 | [#51 N 皇后](https://leetcode-cn.com/problems/n-queens) | HARD | 3 | 1 |
+| 2021-02-09 06:11 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 4 | **2** |
 | 2021-02-08 06:46 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 14 | **3** |
 | 2021-02-08 06:41 | [#509 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | EASY | 1 | 1 |
 | 2021-02-07 15:58 | [#面试题 17.22 单词转换](https://leetcode-cn.com/problems/word-transformer-lcci) | MEDIUM | 4 | 1 |
@@ -67,7 +69,7 @@
 | 2020-12-09 17:59 | [#395 至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) | MEDIUM | 9 | 1 |
 | 2020-12-08 17:48 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 4 | 1 |
 | 2020-12-07 18:35 | [#300 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | MEDIUM | 8 | 1 |
-| 2020-12-06 16:06 | [#378 有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | MEDIUM | 2 | 1 |
+| 2020-12-06 16:06 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | MEDIUM | 2 | 1 |
 | 2020-12-06 13:53 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 1 | 1 |
 | 2020-12-06 13:28 | [#91 解码方法](https://leetcode-cn.com/problems/decode-ways) | MEDIUM | 15 | 1 |
 | 2020-12-06 09:20 | [#162 寻找峰值](https://leetcode-cn.com/problems/find-peak-element) | MEDIUM | 6 | 1 |
@@ -140,7 +142,6 @@
 | 2020-10-06 04:49 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 5 | **2** |
 | 2020-10-03 17:01 | [#1604 警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) | MEDIUM | 11 | 1 |
 | 2020-10-03 15:17 | [#1603 设计停车系统](https://leetcode-cn.com/problems/design-parking-system) | EASY | 1 | 1 |
-| 2020-09-30 05:40 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 3 | 1 |
 | 2020-09-28 18:03 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 10 | 1 |
 | 2020-09-28 17:06 | [#117 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii) | MEDIUM | 4 | 1 |
 | 2020-09-28 11:23 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 3 | 1 |
