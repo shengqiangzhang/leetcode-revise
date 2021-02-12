@@ -48,7 +48,7 @@
 | 2020-12-21 18:15 | [#48 旋转图像](https://leetcode-cn.com/problems/rotate-image) | MEDIUM | 1 | 1 |
 | 2020-12-21 17:27 | [#238 除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self) | MEDIUM | 1 | 1 |
 | 2020-12-20 15:21 | [#22 括号生成](https://leetcode-cn.com/problems/generate-parentheses) | MEDIUM | 5 | 1 |
-| 2020-12-20 14:19 | [#348 判定井字棋胜负](https://leetcode-cn.com/problems/design-tic-tac-toe) | MEDIUM | 7 | 1 |
+| 2020-12-20 14:19 | [#348 设计井字棋](https://leetcode-cn.com/problems/design-tic-tac-toe) | MEDIUM | 7 | 1 |
 | 2020-12-20 09:28 | [#277 搜寻名人](https://leetcode-cn.com/problems/find-the-celebrity) | MEDIUM | 2 | 1 |
 | 2020-12-20 08:16 | [#163 缺失的区间](https://leetcode-cn.com/problems/missing-ranges) | EASY | 2 | 1 |
 | 2020-12-20 07:56 | [#285 二叉搜索树中的顺序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst) | MEDIUM | 11 | 1 |
