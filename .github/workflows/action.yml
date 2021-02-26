@@ -12,6 +12,9 @@ jobs:
       - name: 'Checkout codes'
         uses: actions/checkout@v1
 
+      - name: Change the time zone to Asia/Shanghai
+        run: timedatectl set-timezone Asia/Shanghai
+        
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
