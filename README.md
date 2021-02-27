@@ -21,6 +21,10 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-02-27 18:21 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 11 | **2** |
+| 2021-02-27 16:51 | [#116 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node) | MEDIUM | 1 | 1 |
+| 2021-02-27 16:06 | [#226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | EASY | 6 | **2** |
+| 2021-02-27 15:36 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | EASY | 5 | **2** |
 | 2021-02-27 02:43 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 6 | 1 |
 | 2021-02-27 02:07 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 3 | **2** |
 | 2021-02-26 22:40 | [#剑指 Offer 24 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof) | EASY | 5 | **2** |
@@ -70,7 +74,7 @@
 | 2020-12-11 02:09 | [#210 课程表 II](https://leetcode-cn.com/problems/course-schedule-ii) | MEDIUM | 2 | 1 |
 | 2020-12-11 01:44 | [#207 课程表](https://leetcode-cn.com/problems/course-schedule) | MEDIUM | 2 | 1 |
 | 2020-12-10 02:26 | [#36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku) | MEDIUM | 2 | 1 |
-| 2020-12-10 01:59 | [#395 至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) | MEDIUM | 9 | 1 |
+| 2020-12-10 01:59 | [#395 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) | MEDIUM | 9 | 1 |
 | 2020-12-09 01:48 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 4 | 1 |
 | 2020-12-08 02:35 | [#300 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | MEDIUM | 8 | 1 |
 | 2020-12-07 00:06 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | MEDIUM | 2 | **2** |
@@ -146,7 +150,6 @@
 | 2020-10-06 12:49 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 5 | **2** |
 | 2020-10-04 01:01 | [#1604 警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) | MEDIUM | 11 | 1 |
 | 2020-10-03 23:17 | [#1603 设计停车系统](https://leetcode-cn.com/problems/design-parking-system) | EASY | 1 | 1 |
-| 2020-09-29 02:03 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 10 | 1 |
 | 2020-09-29 01:06 | [#117 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii) | MEDIUM | 4 | **2** |
 | 2020-09-28 19:23 | [#90 子集 II](https://leetcode-cn.com/problems/subsets-ii) | MEDIUM | 3 | 1 |
 | 2020-09-28 02:13 | [#78 子集](https://leetcode-cn.com/problems/subsets) | MEDIUM | 5 | 1 |
@@ -165,7 +168,7 @@
 | 2020-09-21 15:43 | [#面试题 16.14 最佳直线](https://leetcode-cn.com/problems/best-line-lcci) | MEDIUM | 13 | 1 |
 | 2020-09-21 02:08 | [#面试题 08.04 幂集](https://leetcode-cn.com/problems/power-set-lcci) | MEDIUM | 6 | 1 |
 | 2020-09-20 14:37 | [#LCP 22 黑白方格画](https://leetcode-cn.com/problems/ccw6C7) | EASY | 4 | **2** |
-| 2020-09-20 01:16 | [#1411 给 N x 3 网格图涂色的方案数](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-x-3-grid) | HARD | 5 | 1 |
+| 2020-09-20 01:16 | [#1411 给 N x 3 网格图涂色的方案数](https://leetcode-cn.com/problems/number-of-ways-to-paint-n-3-grid) | HARD | 5 | 1 |
 | 2020-09-19 22:39 | [#面试题 02.04 分割链表](https://leetcode-cn.com/problems/partition-list-lcci) | MEDIUM | 4 | 1 |
 | 2020-09-18 21:04 | [#面试题 10.03 搜索旋转数组](https://leetcode-cn.com/problems/search-rotate-array-lcci) | MEDIUM | 2 | 1 |
 | 2020-09-18 15:57 | [#面试题 08.09 括号](https://leetcode-cn.com/problems/bracket-lcci) | MEDIUM | 2 | 1 |
@@ -275,7 +278,6 @@
 | 2020-07-29 01:53 | [#189 旋转数组](https://leetcode-cn.com/problems/rotate-array) | MEDIUM | 4 | 1 |
 | 2020-07-29 00:49 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | MEDIUM | 7 | **2** |
 | 2020-07-28 23:43 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | EASY | 15 | 1 |
-| 2020-07-27 21:01 | [#226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | EASY | 5 | 1 |
 | 2020-07-27 20:25 | [#581 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | MEDIUM | 3 | **2** |
 | 2020-07-26 21:57 | [#461 汉明距离](https://leetcode-cn.com/problems/hamming-distance) | EASY | 3 | 1 |
 | 2020-07-25 23:51 | [#448 找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array) | EASY | 2 | 1 |
@@ -301,7 +303,6 @@
 | 2020-07-19 21:14 | [#剑指 Offer 06 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof) | EASY | 7 | 1 |
 | 2020-07-19 20:39 | [#876 链表的中间结点](https://leetcode-cn.com/problems/middle-of-the-linked-list) | EASY | 2 | 1 |
 | 2020-07-19 20:27 | [#237 删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list) | EASY | 1 | 1 |
-| 2020-07-19 20:17 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | EASY | 2 | 1 |
 | 2020-07-19 19:31 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 1 | 1 |
 | 2020-07-19 19:25 | [#203 移除链表元素](https://leetcode-cn.com/problems/remove-linked-list-elements) | EASY | 1 | 1 |
 | 2020-07-19 19:01 | [#160 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | EASY | 2 | 1 |
