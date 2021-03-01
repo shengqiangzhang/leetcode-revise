@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-01 18:13 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 3 | **2** |
+| 2021-03-01 11:26 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | MEDIUM | 6 | **2** |
 | 2021-02-28 15:43 | [#297 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree) | HARD | 2 | 1 |
 | 2021-02-28 14:50 | [#450 删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst) | MEDIUM | 1 | 1 |
 | 2021-02-28 02:34 | [#701 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | MEDIUM | 1 | 1 |
@@ -56,7 +58,6 @@
 | 2021-01-15 00:51 | [#剑指 Offer 44 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof) | MEDIUM | 3 | 1 |
 | 2021-01-03 01:55 | [#剑指 Offer 12 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof) | MEDIUM | 17 | 1 |
 | 2021-01-02 21:54 | [#89 格雷编码](https://leetcode-cn.com/problems/gray-code) | MEDIUM | 1 | 1 |
-| 2021-01-01 02:19 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 1 | 1 |
 | 2020-12-31 14:34 | [#16 最接近的三数之和](https://leetcode-cn.com/problems/3sum-closest) | MEDIUM | 4 | 1 |
 | 2020-12-31 13:39 | [#61 旋转链表](https://leetcode-cn.com/problems/rotate-list) | MEDIUM | 2 | 1 |
 | 2020-12-25 03:13 | [#399 除法求值](https://leetcode-cn.com/problems/evaluate-division) | MEDIUM | 4 | 1 |
@@ -136,7 +137,6 @@
 | 2020-10-17 22:51 | [#1619 删除某些元素后的数组均值](https://leetcode-cn.com/problems/mean-of-array-after-removing-some-elements) | EASY | 2 | 1 |
 | 2020-10-16 01:16 | [#977 有序数组的平方](https://leetcode-cn.com/problems/squares-of-a-sorted-array) | EASY | 4 | 1 |
 | 2020-10-15 22:58 | [#410 分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum) | HARD | 4 | 1 |
-| 2020-10-15 02:30 | [#341 扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator) | MEDIUM | 4 | 1 |
 | 2020-10-12 14:45 | [#289 生命游戏](https://leetcode-cn.com/problems/game-of-life) | MEDIUM | 3 | **2** |
 | 2020-10-11 22:28 | [#279 完全平方数](https://leetcode-cn.com/problems/perfect-squares) | MEDIUM | 11 | 1 |
 | 2020-10-11 20:19 | [#79 单词搜索](https://leetcode-cn.com/problems/word-search) | MEDIUM | 1 | 1 |
