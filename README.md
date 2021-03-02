@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-02 12:09 | [#295 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream) | HARD | 2 | 1 |
+| 2021-03-02 11:21 | [#460 LFU 缓存](https://leetcode-cn.com/problems/lfu-cache) | HARD | 3 | 1 |
 | 2021-03-01 22:35 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 5 | **2** |
 | 2021-03-01 21:03 | [#990 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations) | MEDIUM | 1 | 1 |
 | 2021-03-01 20:13 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | MEDIUM | 8 | **2** |
