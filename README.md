@@ -21,6 +21,13 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-06 18:36 | [#135 分发糖果](https://leetcode-cn.com/problems/candy) | HARD | 4 | 1 |
+| 2021-03-06 16:29 | [#575 分糖果](https://leetcode-cn.com/problems/distribute-candies) | EASY | 3 | 1 |
+| 2021-03-06 15:53 | [#72 编辑距离](https://leetcode-cn.com/problems/edit-distance) | HARD | 1 | 1 |
+| 2021-03-06 13:56 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 9 | **2** |
+| 2021-03-06 13:51 | [#32 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses) | HARD | 4 | 1 |
+| 2021-03-06 13:47 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 9 | **3** |
+| 2021-03-06 12:49 | [#42 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | HARD | 3 | 1 |
 | 2021-03-02 12:09 | [#295 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream) | HARD | 2 | 1 |
 | 2021-03-02 11:21 | [#460 LFU 缓存](https://leetcode-cn.com/problems/lfu-cache) | HARD | 3 | 1 |
 | 2021-03-01 22:35 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 5 | **2** |
@@ -80,7 +87,6 @@
 | 2020-12-20 03:13 | [#324 摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii) | MEDIUM | 5 | 1 |
 | 2020-12-16 02:38 | [#454 四数相加 II](https://leetcode-cn.com/problems/4sum-ii) | MEDIUM | 2 | 1 |
 | 2020-12-16 02:26 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 6 | **2** |
-| 2020-12-16 01:59 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 6 | **2** |
 | 2020-12-15 00:58 | [#334 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence) | MEDIUM | 6 | 1 |
 | 2020-12-14 02:06 | [#380 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) | MEDIUM | 4 | 1 |
 | 2020-12-13 02:17 | [#227 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii) | MEDIUM | 14 | 1 |
@@ -344,7 +350,6 @@
 | 2020-07-12 00:24 | [#1394 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array) | EASY | 2 | 1 |
 | 2020-07-11 23:57 | [#1389 按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order) | EASY | 3 | 1 |
 | 2020-07-11 23:34 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 11 | 1 |
-| 2020-07-11 18:39 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 7 | 1 |
 | 2020-07-10 23:32 | [#14 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix) | EASY | 17 | 1 |
 | 2020-07-10 22:50 | [#13 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | EASY | 17 | 1 |
 | 2020-07-10 20:58 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | EASY | 15 | 1 |
