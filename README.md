@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-07 02:24 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | HARD | 3 | **2** |
+| 2021-03-06 23:28 | [#5681 判断一个数字是否可以表示成三的幂的和](https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three) | MEDIUM | 2 | 1 |
+| 2021-03-06 22:59 | [#5680 找到最近的有相同 X 或 Y 坐标的点](https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | EASY | 1 | 1 |
 | 2021-03-06 18:36 | [#135 分发糖果](https://leetcode-cn.com/problems/candy) | HARD | 4 | 1 |
 | 2021-03-06 16:29 | [#575 分糖果](https://leetcode-cn.com/problems/distribute-candies) | EASY | 3 | 1 |
 | 2021-03-06 15:53 | [#72 编辑距离](https://leetcode-cn.com/problems/edit-distance) | HARD | 1 | 1 |
@@ -55,7 +58,6 @@
 | 2021-02-27 02:43 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 6 | 1 |
 | 2021-02-27 02:07 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 3 | **2** |
 | 2021-02-26 22:40 | [#剑指 Offer 24 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof) | EASY | 5 | **2** |
-| 2021-02-10 02:00 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | HARD | 2 | 1 |
 | 2021-02-09 14:56 | [#51 N 皇后](https://leetcode-cn.com/problems/n-queens) | HARD | 3 | 1 |
 | 2021-02-09 14:11 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 4 | **2** |
 | 2021-02-08 14:46 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 14 | **3** |
