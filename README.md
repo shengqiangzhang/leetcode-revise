@@ -133,7 +133,7 @@
 | 2020-11-01 00:09 | [#1637 两点之间不包含任何点的最宽垂直面积](https://leetcode-cn.com/problems/widest-vertical-area-between-two-points-containing-no-points) | MEDIUM | 7 | 1 |
 | 2020-10-31 23:30 | [#1638 统计只差一个字符的子串数目](https://leetcode-cn.com/problems/count-substrings-that-differ-by-one-character) | MEDIUM | 3 | 1 |
 | 2020-10-30 02:21 | [#253 会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii) | MEDIUM | 2 | 1 |
-| 2020-10-29 21:45 | [#129 求根到叶子节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 1 | 1 |
+| 2020-10-29 21:45 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 1 | 1 |
 | 2020-10-29 02:22 | [#252 会议室](https://leetcode-cn.com/problems/meeting-rooms) | EASY | 6 | 1 |
 | 2020-10-26 02:31 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 2 | 1 |
 | 2020-10-25 16:41 | [#50 Pow(x, n)](https://leetcode-cn.com/problems/powx-n) | MEDIUM | 4 | 1 |
