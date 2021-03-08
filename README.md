@@ -23,8 +23,8 @@
 | ---- | ---- | ---- | ---- | ---- |
 | 2021-03-08 01:20 | [#剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | EASY | 9 | **3** |
 | 2021-03-07 02:24 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | HARD | 3 | **2** |
-| 2021-03-06 23:28 | [#5681 判断一个数字是否可以表示成三的幂的和](https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three) | MEDIUM | 2 | 1 |
-| 2021-03-06 22:59 | [#5680 找到最近的有相同 X 或 Y 坐标的点](https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | EASY | 1 | 1 |
+| 2021-03-06 23:28 | [#1780 判断一个数字是否可以表示成三的幂的和](https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three) | MEDIUM | 2 | 1 |
+| 2021-03-06 22:59 | [#1779 找到最近的有相同 X 或 Y 坐标的点](https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | EASY | 1 | 1 |
 | 2021-03-06 18:36 | [#135 分发糖果](https://leetcode-cn.com/problems/candy) | HARD | 4 | 1 |
 | 2021-03-06 16:29 | [#575 分糖果](https://leetcode-cn.com/problems/distribute-candies) | EASY | 3 | 1 |
 | 2021-03-06 15:53 | [#72 编辑距离](https://leetcode-cn.com/problems/edit-distance) | HARD | 1 | 1 |
@@ -215,7 +215,7 @@
 | 2020-09-05 01:19 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 5 | 1 |
 | 2020-09-05 00:18 | [#剑指 Offer 26 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof) | MEDIUM | 11 | **2** |
 | 2020-09-04 01:23 | [#剑指 Offer 37 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof) | HARD | 1 | 1 |
-| 2020-09-03 01:35 | [#剑指 Offer 34 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof) | MEDIUM | 1 | 1 |
+| 2020-09-03 01:35 | [#面试题34 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof) | MEDIUM | 1 | 1 |
 | 2020-09-02 14:03 | [#409 最长回文串](https://leetcode-cn.com/problems/longest-palindrome) | EASY | 8 | 1 |
 | 2020-09-02 01:47 | [#剑指 Offer 45 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof) | MEDIUM | 1 | 1 |
 | 2020-09-02 01:08 | [#剑指 Offer 41 数据流中的中位数](https://leetcode-cn.com/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof) | HARD | 12 | **2** |
