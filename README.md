@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-08 01:20 | [#剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | EASY | 9 | **3** |
 | 2021-03-07 02:24 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | HARD | 3 | **2** |
 | 2021-03-06 23:28 | [#5681 判断一个数字是否可以表示成三的幂的和](https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three) | MEDIUM | 2 | 1 |
 | 2021-03-06 22:59 | [#5680 找到最近的有相同 X 或 Y 坐标的点](https://leetcode-cn.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate) | EASY | 1 | 1 |
@@ -85,7 +86,7 @@
 | 2020-12-20 22:19 | [#348 设计井字棋](https://leetcode-cn.com/problems/design-tic-tac-toe) | MEDIUM | 7 | 1 |
 | 2020-12-20 17:28 | [#277 搜寻名人](https://leetcode-cn.com/problems/find-the-celebrity) | MEDIUM | 2 | 1 |
 | 2020-12-20 16:16 | [#163 缺失的区间](https://leetcode-cn.com/problems/missing-ranges) | EASY | 2 | 1 |
-| 2020-12-20 15:56 | [#285 二叉搜索树中的顺序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst) | MEDIUM | 11 | 1 |
+| 2020-12-20 15:56 | [#285 二叉搜索树中的中序后继](https://leetcode-cn.com/problems/inorder-successor-in-bst) | MEDIUM | 11 | 1 |
 | 2020-12-20 03:13 | [#324 摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii) | MEDIUM | 5 | 1 |
 | 2020-12-16 02:38 | [#454 四数相加 II](https://leetcode-cn.com/problems/4sum-ii) | MEDIUM | 2 | 1 |
 | 2020-12-16 02:26 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 6 | **2** |
@@ -259,7 +260,6 @@
 | 2020-08-13 23:58 | [#剑指 Offer 53 - I 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof) | EASY | 19 | 1 |
 | 2020-08-13 18:15 | [#剑指 Offer 61 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof) | EASY | 2 | 1 |
 | 2020-08-13 17:09 | [#剑指 Offer 58 - I 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof) | EASY | 10 | 1 |
-| 2020-08-13 00:11 | [#剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | EASY | 8 | **2** |
 | 2020-08-12 23:43 | [#剑指 Offer 57 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof) | EASY | 6 | 1 |
 | 2020-08-12 16:44 | [#剑指 Offer 54 二叉搜索树的第k大节点](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-di-kda-jie-dian-lcof) | EASY | 7 | 1 |
 | 2020-08-12 16:07 | [#剑指 Offer 68 - I 二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/er-cha-sou-suo-shu-de-zui-jin-gong-gong-zu-xian-lcof) | EASY | 2 | 1 |
