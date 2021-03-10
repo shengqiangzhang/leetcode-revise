@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-10 20:06 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 1 | 1 |
+| 2021-03-10 19:25 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 5 | **3** |
 | 2021-03-09 20:48 | [#226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | EASY | 7 | **3** |
 | 2021-03-08 01:20 | [#剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | EASY | 9 | **3** |
 | 2021-03-07 02:24 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | HARD | 3 | **2** |
@@ -60,7 +62,6 @@
 | 2021-02-27 02:07 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 3 | **2** |
 | 2021-02-26 22:40 | [#剑指 Offer 24 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof) | EASY | 5 | **2** |
 | 2021-02-09 14:56 | [#51 N 皇后](https://leetcode-cn.com/problems/n-queens) | HARD | 3 | 1 |
-| 2021-02-09 14:11 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 4 | **2** |
 | 2021-02-08 14:46 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 14 | **3** |
 | 2021-02-08 14:41 | [#509 斐波那契数](https://leetcode-cn.com/problems/fibonacci-number) | EASY | 1 | 1 |
 | 2021-02-07 23:58 | [#面试题 17.22 单词转换](https://leetcode-cn.com/problems/word-transformer-lcci) | MEDIUM | 4 | 1 |
