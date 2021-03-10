@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-09 20:48 | [#226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | EASY | 7 | **3** |
 | 2021-03-08 01:20 | [#剑指 Offer 42 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof) | EASY | 9 | **3** |
 | 2021-03-07 02:24 | [#37 解数独](https://leetcode-cn.com/problems/sudoku-solver) | HARD | 3 | **2** |
 | 2021-03-06 23:28 | [#1780 判断一个数字是否可以表示成三的幂的和](https://leetcode-cn.com/problems/check-if-number-is-a-sum-of-powers-of-three) | MEDIUM | 2 | 1 |
@@ -54,7 +55,6 @@
 | 2021-02-27 20:55 | [#117 填充每个节点的下一个右侧节点指针 II](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node-ii) | MEDIUM | 10 | **3** |
 | 2021-02-27 20:41 | [#116 填充每个节点的下一个右侧节点指针](https://leetcode-cn.com/problems/populating-next-right-pointers-in-each-node) | MEDIUM | 4 | 1 |
 | 2021-02-27 18:21 | [#114 二叉树展开为链表](https://leetcode-cn.com/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 11 | **2** |
-| 2021-02-27 16:06 | [#226 翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree) | EASY | 6 | **2** |
 | 2021-02-27 15:36 | [#234 回文链表](https://leetcode-cn.com/problems/palindrome-linked-list) | EASY | 5 | **2** |
 | 2021-02-27 02:43 | [#25 K 个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group) | HARD | 6 | 1 |
 | 2021-02-27 02:07 | [#92 反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii) | MEDIUM | 3 | **2** |
