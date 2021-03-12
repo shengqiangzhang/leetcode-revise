@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-12 16:58 | [#199 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view) | MEDIUM | 2 | 1 |
 | 2021-03-11 19:05 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 5 | **2** |
 | 2021-03-10 20:06 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 1 | 1 |
 | 2021-03-10 19:25 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 5 | **3** |
