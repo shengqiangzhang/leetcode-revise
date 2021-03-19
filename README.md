@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-19 17:08 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 14 | **2** |
+| 2021-03-19 16:09 | [#354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | HARD | 1 | 1 |
+| 2021-03-19 14:47 | [#300 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | MEDIUM | 10 | **2** |
 | 2021-03-15 14:38 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 8 | **2** |
 | 2021-03-14 20:17 | [#剑指 Offer 22 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof) | EASY | 6 | **2** |
 | 2021-03-12 16:58 | [#199 二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view) | MEDIUM | 2 | 1 |
@@ -108,7 +111,6 @@
 | 2020-12-10 02:26 | [#36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku) | MEDIUM | 2 | 1 |
 | 2020-12-10 01:59 | [#395 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) | MEDIUM | 9 | 1 |
 | 2020-12-09 01:48 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 4 | 1 |
-| 2020-12-08 02:35 | [#300 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | MEDIUM | 8 | 1 |
 | 2020-12-07 00:06 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | MEDIUM | 2 | **2** |
 | 2020-12-06 21:53 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 1 | 1 |
 | 2020-12-06 21:28 | [#91 解码方法](https://leetcode-cn.com/problems/decode-ways) | MEDIUM | 15 | 1 |
@@ -171,7 +173,6 @@
 | 2020-10-08 17:25 | [#647 回文子串](https://leetcode-cn.com/problems/palindromic-substrings) | MEDIUM | 7 | 1 |
 | 2020-10-08 01:37 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 2 | 1 |
 | 2020-10-07 22:48 | [#739 每日温度](https://leetcode-cn.com/problems/daily-temperatures) | MEDIUM | 9 | 1 |
-| 2020-10-07 21:28 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 10 | 1 |
 | 2020-10-07 17:26 | [#287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | MEDIUM | 3 | 1 |
 | 2020-10-07 15:48 | [#64 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | MEDIUM | 2 | 1 |
 | 2020-10-07 02:08 | [#96 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) | MEDIUM | 1 | 1 |
