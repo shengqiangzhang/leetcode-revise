@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-20 15:53 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 13 | **2** |
 | 2021-03-19 17:08 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 14 | **2** |
 | 2021-03-19 16:09 | [#354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | HARD | 1 | 1 |
 | 2021-03-19 14:47 | [#300 最长递增子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence) | MEDIUM | 10 | **2** |
@@ -354,7 +355,6 @@
 | 2020-07-12 15:07 | [#26 删除有序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array) | EASY | 4 | 1 |
 | 2020-07-12 00:24 | [#1394 找出数组中的幸运数](https://leetcode-cn.com/problems/find-lucky-integer-in-an-array) | EASY | 2 | 1 |
 | 2020-07-11 23:57 | [#1389 按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order) | EASY | 3 | 1 |
-| 2020-07-11 23:34 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 11 | 1 |
 | 2020-07-10 23:32 | [#14 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix) | EASY | 17 | 1 |
 | 2020-07-10 22:50 | [#13 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | EASY | 17 | 1 |
 | 2020-07-10 20:58 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | EASY | 15 | 1 |
