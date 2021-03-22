@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-22 20:06 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 11 | **2** |
 | 2021-03-20 15:53 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 13 | **2** |
 | 2021-03-19 17:08 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 14 | **2** |
 | 2021-03-19 16:09 | [#354 俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes) | HARD | 1 | 1 |
@@ -125,7 +126,6 @@
 | 2020-11-26 21:16 | [#241 为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) | MEDIUM | 3 | 1 |
 | 2020-11-26 01:21 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 12 | **2** |
 | 2020-11-23 14:11 | [#56 合并区间](https://leetcode-cn.com/problems/merge-intervals) | MEDIUM | 6 | 1 |
-| 2020-11-23 01:26 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 4 | 1 |
 | 2020-11-22 17:50 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 4 | 1 |
 | 2020-11-22 02:42 | [#1658 将 x 减到 0 的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero) | MEDIUM | 27 | 1 |
 | 2020-11-22 02:12 | [#621 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | MEDIUM | 6 | **2** |
