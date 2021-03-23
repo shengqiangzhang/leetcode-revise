@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-22 22:42 | [#136 只出现一次的数字](https://leetcode-cn.com/problems/single-number) | EASY | 2 | **2** |
 | 2021-03-22 20:06 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 11 | **2** |
 | 2021-03-20 15:53 | [#21 合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists) | EASY | 13 | **2** |
 | 2021-03-19 17:08 | [#75 颜色分类](https://leetcode-cn.com/problems/sort-colors) | MEDIUM | 14 | **2** |
@@ -333,7 +334,6 @@
 | 2020-07-19 19:01 | [#160 相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists) | EASY | 2 | 1 |
 | 2020-07-19 04:11 | [#143 重排链表](https://leetcode-cn.com/problems/reorder-list) | MEDIUM | 1 | 1 |
 | 2020-07-18 21:03 | [#142 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | MEDIUM | 6 | 1 |
-| 2020-07-18 19:45 | [#136 只出现一次的数字](https://leetcode-cn.com/problems/single-number) | EASY | 1 | 1 |
 | 2020-07-18 03:49 | [#125 验证回文串](https://leetcode-cn.com/problems/valid-palindrome) | EASY | 4 | 1 |
 | 2020-07-18 02:24 | [#119 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | EASY | 4 | 1 |
 | 2020-07-18 02:13 | [#118 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | EASY | 1 | 1 |
