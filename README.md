@@ -21,6 +21,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-24 00:21 | [#110 平衡二叉树](https://leetcode-cn.com/problems/balanced-binary-tree) | EASY | 5 | **2** |
+| 2021-03-23 23:43 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 7 | **2** |
+| 2021-03-23 23:31 | [#剑指 Offer 51 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof) | HARD | 3 | **2** |
 | 2021-03-23 14:30 | [#剑指 Offer 35 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof) | MEDIUM | 13 | **2** |
 | 2021-03-23 14:07 | [#1800 最大升序子数组和](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum) | EASY | 3 | 1 |
 | 2021-03-23 13:24 | [#1143 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | MEDIUM | 1 | 1 |
@@ -81,7 +84,6 @@
 | 2021-02-07 16:54 | [#面试题 08.11 硬币](https://leetcode-cn.com/problems/coin-lcci) | MEDIUM | 4 | 1 |
 | 2021-02-07 01:52 | [#剑指 Offer 19 正则表达式匹配](https://leetcode-cn.com/problems/zheng-ze-biao-da-shi-pi-pei-lcof) | HARD | 3 | 1 |
 | 2021-02-06 22:56 | [#剑指 Offer 43 1～n 整数中 1 出现的次数](https://leetcode-cn.com/problems/1nzheng-shu-zhong-1chu-xian-de-ci-shu-lcof) | HARD | 3 | 1 |
-| 2021-02-06 22:03 | [#剑指 Offer 51 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof) | HARD | 2 | 1 |
 | 2021-02-05 18:45 | [#剑指 Offer 67 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof) | MEDIUM | 4 | 1 |
 | 2021-02-05 17:51 | [#剑指 Offer 48 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof) | MEDIUM | 7 | 1 |
 | 2021-01-15 00:51 | [#剑指 Offer 44 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof) | MEDIUM | 3 | 1 |
@@ -340,7 +342,6 @@
 | 2020-07-18 02:24 | [#119 杨辉三角 II](https://leetcode-cn.com/problems/pascals-triangle-ii) | EASY | 4 | 1 |
 | 2020-07-18 02:13 | [#118 杨辉三角](https://leetcode-cn.com/problems/pascals-triangle) | EASY | 1 | 1 |
 | 2020-07-14 23:46 | [#111 二叉树的最小深度](https://leetcode-cn.com/problems/minimum-depth-of-binary-tree) | EASY | 3 | 1 |
-| 2020-07-14 23:02 | [#104 二叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-binary-tree) | EASY | 6 | 1 |
 | 2020-07-14 17:15 | [#101 对称二叉树](https://leetcode-cn.com/problems/symmetric-tree) | EASY | 4 | 1 |
 | 2020-07-14 16:23 | [#100 相同的树](https://leetcode-cn.com/problems/same-tree) | EASY | 1 | 1 |
 | 2020-07-14 16:11 | [#88 合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array) | EASY | 1 | 1 |
