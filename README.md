@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-25 14:50 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | MEDIUM | 7 | **3** |
+| 2021-03-25 14:41 | [#678 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string) | MEDIUM | 1 | 1 |
 | 2021-03-25 11:14 | [#518 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2) | MEDIUM | 4 | 1 |
 | 2021-03-25 10:37 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 16 | **4** |
 | 2021-03-25 02:57 | [#309 最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | MEDIUM | 3 | **2** |
@@ -161,7 +163,6 @@
 | 2020-10-26 02:31 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 2 | 1 |
 | 2020-10-25 16:41 | [#50 Pow(x, n)](https://leetcode-cn.com/problems/powx-n) | MEDIUM | 4 | 1 |
 | 2020-10-25 01:42 | [#221 最大正方形](https://leetcode-cn.com/problems/maximal-square) | MEDIUM | 3 | 1 |
-| 2020-10-24 01:21 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | MEDIUM | 5 | **2** |
 | 2020-10-19 20:25 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 8 | 1 |
 | 2020-10-18 10:41 | [#1624 两个相同字符之间的最长子字符串](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters) | EASY | 2 | 1 |
 | 2020-10-17 23:45 | [#1620 网络信号最好的坐标](https://leetcode-cn.com/problems/coordinate-with-maximum-network-quality) | MEDIUM | 5 | 1 |
