@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-03-27 01:31 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | EASY | 16 | **2** |
 | 2021-03-25 14:50 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | MEDIUM | 7 | **3** |
 | 2021-03-25 14:41 | [#678 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string) | MEDIUM | 1 | 1 |
 | 2021-03-25 11:14 | [#518 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2) | MEDIUM | 4 | 1 |
@@ -364,7 +365,6 @@
 | 2020-07-11 23:57 | [#1389 按既定顺序创建目标数组](https://leetcode-cn.com/problems/create-target-array-in-the-given-order) | EASY | 3 | 1 |
 | 2020-07-10 23:32 | [#14 最长公共前缀](https://leetcode-cn.com/problems/longest-common-prefix) | EASY | 17 | 1 |
 | 2020-07-10 22:50 | [#13 罗马数字转整数](https://leetcode-cn.com/problems/roman-to-integer) | EASY | 17 | 1 |
-| 2020-07-10 20:58 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | EASY | 15 | 1 |
 | 2020-07-10 20:21 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 5 | 1 |
 | 2020-07-10 16:59 | [#1470 重新排列数组](https://leetcode-cn.com/problems/shuffle-the-array) | EASY | 2 | 1 |
 | 2020-07-10 14:11 | [#1431 拥有最多糖果的孩子](https://leetcode-cn.com/problems/kids-with-the-greatest-number-of-candies) | EASY | 4 | 1 |
