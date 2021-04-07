@@ -21,6 +21,15 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-04-07 16:08 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 5 | **2** |
+| 2021-04-07 15:48 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 6 | **3** |
+| 2021-04-07 13:15 | [#718 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) | MEDIUM | 1 | 1 |
+| 2021-04-07 12:12 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 7 | **2** |
+| 2021-04-07 11:15 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 4 | **2** |
+| 2021-04-07 10:45 | [#121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | EASY | 8 | **4** |
+| 2021-04-07 10:33 | [#225 用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues) | EASY | 1 | 1 |
+| 2021-04-07 09:29 | [#剑指 Offer 09 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | EASY | 2 | **2** |
+| 2021-04-07 09:20 | [#1171 从链表中删去总和值为零的连续节点](https://leetcode-cn.com/problems/remove-zero-sum-consecutive-nodes-from-linked-list) | MEDIUM | 4 | 1 |
 | 2021-04-06 23:48 | [#1143 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | MEDIUM | 2 | **2** |
 | 2021-04-06 21:58 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 6 | **2** |
 | 2021-04-06 15:43 | [#319 灯泡开关](https://leetcode-cn.com/problems/bulb-switcher) | MEDIUM | 4 | 1 |
@@ -37,7 +46,6 @@
 | 2021-03-25 02:40 | [#188 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | HARD | 2 | 1 |
 | 2021-03-25 02:36 | [#123 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii) | HARD | 1 | 1 |
 | 2021-03-25 02:31 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | EASY | 4 | **2** |
-| 2021-03-25 02:15 | [#121 买卖股票的最佳时机](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock) | EASY | 7 | **3** |
 | 2021-03-25 01:20 | [#剑指 Offer 47 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof) | MEDIUM | 4 | **2** |
 | 2021-03-24 10:16 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 7 | **2** |
 | 2021-03-24 09:50 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 6 | **4** |
@@ -70,7 +78,6 @@
 | 2021-03-06 12:49 | [#42 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | HARD | 3 | 1 |
 | 2021-03-02 12:09 | [#295 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream) | HARD | 2 | 1 |
 | 2021-03-02 11:21 | [#460 LFU 缓存](https://leetcode-cn.com/problems/lfu-cache) | HARD | 3 | 1 |
-| 2021-03-01 22:35 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 5 | **2** |
 | 2021-03-01 21:03 | [#990 等式方程的可满足性](https://leetcode-cn.com/problems/satisfiability-of-equality-equations) | MEDIUM | 1 | 1 |
 | 2021-03-01 20:13 | [#130 被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions) | MEDIUM | 8 | **2** |
 | 2021-03-01 18:13 | [#236 二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree) | MEDIUM | 3 | **2** |
@@ -147,7 +154,6 @@
 | 2020-11-26 21:16 | [#241 为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) | MEDIUM | 3 | 1 |
 | 2020-11-26 01:21 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 12 | **2** |
 | 2020-11-23 14:11 | [#56 合并区间](https://leetcode-cn.com/problems/merge-intervals) | MEDIUM | 6 | 1 |
-| 2020-11-22 17:50 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 4 | 1 |
 | 2020-11-22 02:42 | [#1658 将 x 减到 0 的最小操作数](https://leetcode-cn.com/problems/minimum-operations-to-reduce-x-to-zero) | MEDIUM | 27 | 1 |
 | 2020-11-22 02:12 | [#621 任务调度器](https://leetcode-cn.com/problems/task-scheduler) | MEDIUM | 6 | **2** |
 | 2020-11-15 11:31 | [#1657 确定两个字符串是否接近](https://leetcode-cn.com/problems/determine-if-two-strings-are-close) | MEDIUM | 2 | 1 |
@@ -206,7 +212,6 @@
 | 2020-09-27 01:35 | [#208 实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree) | MEDIUM | 1 | 1 |
 | 2020-09-26 20:39 | [#113 路径总和 II](https://leetcode-cn.com/problems/path-sum-ii) | MEDIUM | 4 | 1 |
 | 2020-09-26 01:28 | [#43 字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | MEDIUM | 4 | 1 |
-| 2020-09-24 02:29 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 2 | 1 |
 | 2020-09-24 02:02 | [#328 奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list) | MEDIUM | 5 | 1 |
 | 2020-09-23 19:19 | [#338 比特位计数](https://leetcode-cn.com/problems/counting-bits) | MEDIUM | 4 | **2** |
 | 2020-09-21 15:43 | [#面试题 16.14 最佳直线](https://leetcode-cn.com/problems/best-line-lcci) | MEDIUM | 13 | 1 |
@@ -233,7 +238,6 @@
 | 2020-09-07 01:35 | [#2 两数相加](https://leetcode-cn.com/problems/add-two-numbers) | MEDIUM | 5 | 1 |
 | 2020-09-06 02:40 | [#107 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii) | MEDIUM | 8 | **2** |
 | 2020-09-05 01:28 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | MEDIUM | 2 | 1 |
-| 2020-09-05 01:19 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 5 | 1 |
 | 2020-09-05 00:18 | [#剑指 Offer 26 树的子结构](https://leetcode-cn.com/problems/shu-de-zi-jie-gou-lcof) | MEDIUM | 11 | **2** |
 | 2020-09-04 01:23 | [#剑指 Offer 37 序列化二叉树](https://leetcode-cn.com/problems/xu-lie-hua-er-cha-shu-lcof) | HARD | 1 | 1 |
 | 2020-09-03 01:35 | [#面试题34 二叉树中和为某一值的路径](https://leetcode-cn.com/problems/er-cha-shu-zhong-he-wei-mou-yi-zhi-de-lu-jing-lcof) | MEDIUM | 1 | 1 |
@@ -302,7 +306,6 @@
 | 2020-08-02 17:17 | [#剑指 Offer 11 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof) | EASY | 4 | 1 |
 | 2020-08-02 16:06 | [#剑指 Offer 10- II 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof) | EASY | 8 | 1 |
 | 2020-08-01 23:39 | [#剑指 Offer 10- I 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof) | EASY | 11 | 1 |
-| 2020-08-01 23:02 | [#剑指 Offer 09 用两个栈实现队列](https://leetcode-cn.com/problems/yong-liang-ge-zhan-shi-xian-dui-lie-lcof) | EASY | 1 | 1 |
 | 2020-08-01 22:25 | [#剑指 Offer 05 替换空格](https://leetcode-cn.com/problems/ti-huan-kong-ge-lcof) | EASY | 3 | 1 |
 | 2020-08-01 21:40 | [#剑指 Offer 04 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof) | MEDIUM | 3 | 1 |
 | 2020-08-01 21:08 | [#剑指 Offer 03 数组中重复的数字](https://leetcode-cn.com/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof) | EASY | 9 | 1 |
