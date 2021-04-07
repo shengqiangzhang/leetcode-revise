@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-04-06 23:48 | [#1143 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | MEDIUM | 2 | **2** |
+| 2021-04-06 21:58 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 6 | **2** |
 | 2021-04-06 15:43 | [#319 灯泡开关](https://leetcode-cn.com/problems/bulb-switcher) | MEDIUM | 4 | 1 |
 | 2021-04-02 12:53 | [#518 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2) | MEDIUM | 5 | **2** |
 | 2021-03-29 10:31 | [#572 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 3 | 1 |
@@ -44,7 +46,6 @@
 | 2021-03-23 23:31 | [#剑指 Offer 51 数组中的逆序对](https://leetcode-cn.com/problems/shu-zu-zhong-de-ni-xu-dui-lcof) | HARD | 3 | **2** |
 | 2021-03-23 14:30 | [#剑指 Offer 35 复杂链表的复制](https://leetcode-cn.com/problems/fu-za-lian-biao-de-fu-zhi-lcof) | MEDIUM | 13 | **2** |
 | 2021-03-23 14:07 | [#1800 最大升序子数组和](https://leetcode-cn.com/problems/maximum-ascending-subarray-sum) | EASY | 3 | 1 |
-| 2021-03-23 13:24 | [#1143 最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence) | MEDIUM | 1 | 1 |
 | 2021-03-23 11:22 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 7 | **3** |
 | 2021-03-22 22:42 | [#136 只出现一次的数字](https://leetcode-cn.com/problems/single-number) | EASY | 2 | **2** |
 | 2021-03-22 20:06 | [#416 分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum) | MEDIUM | 11 | **2** |
@@ -133,7 +134,6 @@
 | 2020-12-11 01:44 | [#207 课程表](https://leetcode-cn.com/problems/course-schedule) | MEDIUM | 2 | 1 |
 | 2020-12-10 02:26 | [#36 有效的数独](https://leetcode-cn.com/problems/valid-sudoku) | MEDIUM | 2 | 1 |
 | 2020-12-10 01:59 | [#395 至少有 K 个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters) | MEDIUM | 9 | 1 |
-| 2020-12-09 01:48 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 4 | 1 |
 | 2020-12-07 00:06 | [#378 有序矩阵中第 K 小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix) | MEDIUM | 2 | **2** |
 | 2020-12-06 21:53 | [#131 分割回文串](https://leetcode-cn.com/problems/palindrome-partitioning) | MEDIUM | 1 | 1 |
 | 2020-12-06 21:28 | [#91 解码方法](https://leetcode-cn.com/problems/decode-ways) | MEDIUM | 15 | 1 |
