@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-04-10 15:18 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 8 | **2** |
+| 2021-04-10 15:05 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 13 | **4** |
 | 2021-04-09 23:14 | [#43 字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | MEDIUM | 5 | **2** |
 | 2021-04-09 22:30 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 2 | **2** |
 | 2021-04-09 22:24 | [#165 比较版本号](https://leetcode-cn.com/problems/compare-version-numbers) | MEDIUM | 3 | 1 |
@@ -89,7 +91,6 @@
 | 2021-03-06 15:53 | [#72 编辑距离](https://leetcode-cn.com/problems/edit-distance) | HARD | 1 | 1 |
 | 2021-03-06 13:56 | [#20 有效的括号](https://leetcode-cn.com/problems/valid-parentheses) | EASY | 9 | **2** |
 | 2021-03-06 13:51 | [#32 最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses) | HARD | 4 | 1 |
-| 2021-03-06 13:47 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 9 | **3** |
 | 2021-03-06 12:49 | [#42 接雨水](https://leetcode-cn.com/problems/trapping-rain-water) | HARD | 3 | 1 |
 | 2021-03-02 12:09 | [#295 数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream) | HARD | 2 | 1 |
 | 2021-03-02 11:21 | [#460 LFU 缓存](https://leetcode-cn.com/problems/lfu-cache) | HARD | 3 | 1 |
@@ -367,7 +368,6 @@
 | 2020-07-13 13:52 | [#67 二进制求和](https://leetcode-cn.com/problems/add-binary) | EASY | 2 | 1 |
 | 2020-07-13 03:11 | [#66 加一](https://leetcode-cn.com/problems/plus-one) | EASY | 2 | 1 |
 | 2020-07-13 02:52 | [#58 最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word) | EASY | 2 | 1 |
-| 2020-07-13 01:31 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 3 | 1 |
 | 2020-07-12 16:32 | [#35 搜索插入位置](https://leetcode-cn.com/problems/search-insert-position) | EASY | 3 | 1 |
 | 2020-07-12 16:13 | [#28 实现 strStr()](https://leetcode-cn.com/problems/implement-strstr) | EASY | 16 | 1 |
 | 2020-07-12 15:36 | [#27 移除元素](https://leetcode-cn.com/problems/remove-element) | EASY | 3 | 1 |
