@@ -21,8 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
-| 2021-04-11 10:42 | [#5727 找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game) | MEDIUM | 1 | 1 |
-| 2021-04-11 10:35 | [#5726 数组元素积的符号](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array) | EASY | 3 | 1 |
+| 2021-04-11 10:42 | [#1823 找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game) | MEDIUM | 1 | 1 |
+| 2021-04-11 10:35 | [#1822 数组元素积的符号](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array) | EASY | 3 | 1 |
 | 2021-04-11 00:05 | [#172 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes) | EASY | 33 | **2** |
 | 2021-04-10 21:57 | [#23 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | HARD | 3 | 1 |
 | 2021-04-10 21:28 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 8 | **4** |
