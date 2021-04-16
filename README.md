@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-04-16 12:57 | [#64 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | MEDIUM | 3 | **2** |
+| 2021-04-16 12:45 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 4 | **2** |
 | 2021-04-11 10:42 | [#1823 找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game) | MEDIUM | 1 | 1 |
 | 2021-04-11 10:35 | [#1822 数组元素积的符号](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array) | EASY | 3 | 1 |
 | 2021-04-11 00:05 | [#172 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes) | EASY | 33 | **2** |
@@ -191,7 +193,6 @@
 | 2020-10-30 02:21 | [#253 会议室 II](https://leetcode-cn.com/problems/meeting-rooms-ii) | MEDIUM | 2 | 1 |
 | 2020-10-29 21:45 | [#129 求根节点到叶节点数字之和](https://leetcode-cn.com/problems/sum-root-to-leaf-numbers) | MEDIUM | 1 | 1 |
 | 2020-10-29 02:22 | [#252 会议室](https://leetcode-cn.com/problems/meeting-rooms) | EASY | 6 | 1 |
-| 2020-10-26 02:31 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 2 | 1 |
 | 2020-10-25 16:41 | [#50 Pow(x, n)](https://leetcode-cn.com/problems/powx-n) | MEDIUM | 4 | 1 |
 | 2020-10-25 01:42 | [#221 最大正方形](https://leetcode-cn.com/problems/maximal-square) | MEDIUM | 3 | 1 |
 | 2020-10-18 10:41 | [#1624 两个相同字符之间的最长子字符串](https://leetcode-cn.com/problems/largest-substring-between-two-equal-characters) | EASY | 2 | 1 |
@@ -215,7 +216,6 @@
 | 2020-10-08 01:37 | [#11 盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water) | MEDIUM | 2 | 1 |
 | 2020-10-07 22:48 | [#739 每日温度](https://leetcode-cn.com/problems/daily-temperatures) | MEDIUM | 9 | 1 |
 | 2020-10-07 17:26 | [#287 寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number) | MEDIUM | 3 | 1 |
-| 2020-10-07 15:48 | [#64 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | MEDIUM | 2 | 1 |
 | 2020-10-07 02:08 | [#96 不同的二叉搜索树](https://leetcode-cn.com/problems/unique-binary-search-trees) | MEDIUM | 1 | 1 |
 | 2020-10-06 12:49 | [#406 根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height) | MEDIUM | 5 | **2** |
 | 2020-10-04 01:01 | [#1604 警告一小时内使用相同员工卡大于等于三次的人](https://leetcode-cn.com/problems/alert-using-same-key-card-three-or-more-times-in-a-one-hour-period) | MEDIUM | 11 | 1 |
