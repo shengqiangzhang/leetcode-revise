@@ -21,6 +21,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-04-28 16:32 | [#633 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers) | MEDIUM | 1 | 1 |
 | 2021-04-16 12:57 | [#64 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | MEDIUM | 3 | **2** |
 | 2021-04-16 12:45 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 4 | **2** |
 | 2021-04-11 10:42 | [#1823 找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game) | MEDIUM | 1 | 1 |
