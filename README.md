@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-04-30 21:47 | [#468 验证IP地址](https://leetcode-cn.com/problems/validate-ip-address) | MEDIUM | 4 | 1 |
+| 2021-04-30 21:11 | [#958 二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree) | MEDIUM | 2 | 1 |
 | 2021-04-30 15:30 | [#137 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii) | MEDIUM | 7 | 1 |
 | 2021-04-30 01:52 | [#6 Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion) | MEDIUM | 5 | 1 |
 | 2021-04-28 22:11 | [#470 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7) | MEDIUM | 2 | 1 |
