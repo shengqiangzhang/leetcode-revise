@@ -21,6 +21,8 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2021-05-03 16:02 | [#227 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii) | MEDIUM | 17 | **2** |
+| 2021-05-03 15:12 | [#41 缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive) | HARD | 2 | 1 |
 | 2021-05-01 16:19 | [#82 删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii) | MEDIUM | 1 | 1 |
 | 2021-04-30 21:47 | [#468 验证IP地址](https://leetcode-cn.com/problems/validate-ip-address) | MEDIUM | 4 | 1 |
 | 2021-04-30 21:11 | [#958 二叉树的完全性检验](https://leetcode-cn.com/problems/check-completeness-of-a-binary-tree) | MEDIUM | 2 | 1 |
@@ -161,7 +163,6 @@
 | 2020-12-16 02:26 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 6 | **2** |
 | 2020-12-15 00:58 | [#334 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence) | MEDIUM | 6 | 1 |
 | 2020-12-14 02:06 | [#380 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) | MEDIUM | 4 | 1 |
-| 2020-12-13 02:17 | [#227 基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii) | MEDIUM | 14 | 1 |
 | 2020-12-12 21:44 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 19 | **3** |
 | 2020-12-12 19:50 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | MEDIUM | 2 | 1 |
 | 2020-12-12 17:39 | [#240 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) | MEDIUM | 1 | 1 |
