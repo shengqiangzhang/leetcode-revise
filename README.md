@@ -55,7 +55,7 @@
 | 2021-04-09 00:52 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 9 | **3** |
 | 2021-04-08 20:18 | [#155 最小栈](https://leetcode-cn.com/problems/min-stack) | EASY | 6 | **2** |
 | 2021-04-08 19:49 | [#102 二叉树的层序遍历](https://leetcode-cn.com/problems/binary-tree-level-order-traversal) | MEDIUM | 4 | **2** |
-| 2021-04-08 19:35 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | MEDIUM | 9 | **3** |
+| 2021-04-08 19:35 | [#94 二叉树的中序遍历](https://leetcode-cn.com/problems/binary-tree-inorder-traversal) | EASY | 9 | **3** |
 | 2021-04-08 19:30 | [#442 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array) | MEDIUM | 4 | 1 |
 | 2021-04-08 17:06 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 9 | **2** |
 | 2021-04-08 16:45 | [#622 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue) | MEDIUM | 4 | 1 |
