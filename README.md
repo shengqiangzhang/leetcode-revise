@@ -164,7 +164,7 @@
 | 2020-12-16 02:38 | [#454 四数相加 II](https://leetcode-cn.com/problems/4sum-ii) | MEDIUM | 2 | 1 |
 | 2020-12-16 02:26 | [#18 四数之和](https://leetcode-cn.com/problems/4sum) | MEDIUM | 6 | **2** |
 | 2020-12-15 00:58 | [#334 递增的三元子序列](https://leetcode-cn.com/problems/increasing-triplet-subsequence) | MEDIUM | 6 | 1 |
-| 2020-12-14 02:06 | [#380 常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) | MEDIUM | 4 | 1 |
+| 2020-12-14 02:06 | [#380 O(1) 时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1) | MEDIUM | 4 | 1 |
 | 2020-12-12 21:44 | [#200 岛屿数量](https://leetcode-cn.com/problems/number-of-islands) | MEDIUM | 19 | **3** |
 | 2020-12-12 19:50 | [#150 逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation) | MEDIUM | 2 | 1 |
 | 2020-12-12 17:39 | [#240 搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii) | MEDIUM | 1 | 1 |
