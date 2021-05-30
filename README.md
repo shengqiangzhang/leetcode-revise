@@ -354,7 +354,7 @@
 | 2020-07-24 23:31 | [#326 3的幂](https://leetcode-cn.com/problems/power-of-three) | EASY | 5 | 1 |
 | 2020-07-23 16:49 | [#292 Nim 游戏](https://leetcode-cn.com/problems/nim-game) | EASY | 1 | 1 |
 | 2020-07-23 16:37 | [#217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | EASY | 10 | 1 |
-| 2020-07-21 23:05 | [#231 2的幂](https://leetcode-cn.com/problems/power-of-two) | EASY | 3 | 1 |
+| 2020-07-21 23:05 | [#231 2 的幂](https://leetcode-cn.com/problems/power-of-two) | EASY | 3 | 1 |
 | 2020-07-21 22:40 | [#面试题 02.03 删除中间节点](https://leetcode-cn.com/problems/delete-middle-node-lcci) | EASY | 1 | 1 |
 | 2020-07-21 22:34 | [#面试题 02.01 移除重复节点](https://leetcode-cn.com/problems/remove-duplicate-node-lcci) | EASY | 4 | 1 |
 | 2020-07-21 21:33 | [#面试题 02.02 返回倒数第 k 个节点](https://leetcode-cn.com/problems/kth-node-from-end-of-list-lcci) | EASY | 1 | 1 |
