@@ -71,7 +71,7 @@
 | 2021-04-06 21:58 | [#34 在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array) | MEDIUM | 6 | **2** |
 | 2021-04-06 15:43 | [#319 灯泡开关](https://leetcode-cn.com/problems/bulb-switcher) | MEDIUM | 4 | 1 |
 | 2021-04-02 12:53 | [#518 零钱兑换 II](https://leetcode-cn.com/problems/coin-change-2) | MEDIUM | 5 | **2** |
-| 2021-03-29 10:31 | [#572 另一个树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 3 | 1 |
+| 2021-03-29 10:31 | [#572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 3 | 1 |
 | 2021-03-28 12:59 | [#93 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses) | MEDIUM | 2 | 1 |
 | 2021-03-28 11:43 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 14 | **2** |
 | 2021-03-27 01:31 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | EASY | 16 | **2** |
