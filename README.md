@@ -82,7 +82,7 @@
 | 2021-03-25 02:48 | [#714 买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | MEDIUM | 3 | **2** |
 | 2021-03-25 02:40 | [#188 买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv) | HARD | 2 | 1 |
 | 2021-03-25 02:36 | [#123 买卖股票的最佳时机 III](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iii) | HARD | 1 | 1 |
-| 2021-03-25 02:31 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | EASY | 4 | **2** |
+| 2021-03-25 02:31 | [#122 买卖股票的最佳时机 II](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-ii) | MEDIUM | 4 | **2** |
 | 2021-03-25 01:20 | [#剑指 Offer 47 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof) | MEDIUM | 4 | **2** |
 | 2021-03-24 10:16 | [#47 全排列 II](https://leetcode-cn.com/problems/permutations-ii) | MEDIUM | 7 | **2** |
 | 2021-03-24 09:50 | [#46 全排列](https://leetcode-cn.com/problems/permutations) | MEDIUM | 6 | **4** |
