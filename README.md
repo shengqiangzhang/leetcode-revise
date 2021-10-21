@@ -37,7 +37,7 @@
 | 2021-04-16 12:45 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 4 | **2** |
 | 2021-04-11 10:42 | [#1823 找出游戏的获胜者](https://leetcode-cn.com/problems/find-the-winner-of-the-circular-game) | MEDIUM | 1 | 1 |
 | 2021-04-11 10:35 | [#1822 数组元素积的符号](https://leetcode-cn.com/problems/sign-of-the-product-of-an-array) | EASY | 3 | 1 |
-| 2021-04-11 00:05 | [#172 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes) | EASY | 33 | **2** |
+| 2021-04-11 00:05 | [#172 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes) | MEDIUM | 33 | **2** |
 | 2021-04-10 21:57 | [#23 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | HARD | 3 | 1 |
 | 2021-04-10 21:28 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 8 | **4** |
 | 2021-04-10 15:18 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 8 | **2** |
@@ -49,7 +49,7 @@
 | 2021-04-09 21:51 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 15 | **2** |
 | 2021-04-09 21:48 | [#1 两数之和](https://leetcode-cn.com/problems/two-sum) | EASY | 7 | **2** |
 | 2021-04-09 21:39 | [#剑指 Offer 07 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof) | MEDIUM | 5 | **2** |
-| 2021-04-09 16:56 | [#69 x 的平方根](https://leetcode-cn.com/problems/sqrtx) | EASY | 22 | **3** |
+| 2021-04-09 16:56 | [#69 Sqrt(x)](https://leetcode-cn.com/problems/sqrtx) | EASY | 22 | **3** |
 | 2021-04-09 11:00 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 7 | **3** |
 | 2021-04-09 00:54 | [#142 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | MEDIUM | 7 | **2** |
 | 2021-04-09 00:52 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 9 | **3** |
@@ -182,7 +182,7 @@
 | 2020-12-06 01:47 | [#166 分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal) | MEDIUM | 2 | 1 |
 | 2020-12-05 21:35 | [#127 单词接龙](https://leetcode-cn.com/problems/word-ladder) | HARD | 3 | 1 |
 | 2020-12-05 16:54 | [#134 加油站](https://leetcode-cn.com/problems/gas-station) | MEDIUM | 6 | **2** |
-| 2020-12-01 02:01 | [#560 和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | MEDIUM | 3 | **3** |
+| 2020-12-01 02:01 | [#560 和为 K 的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k) | MEDIUM | 3 | **3** |
 | 2020-11-30 21:39 | [#494 目标和](https://leetcode-cn.com/problems/target-sum) | MEDIUM | 11 | 1 |
 | 2020-11-26 21:16 | [#241 为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses) | MEDIUM | 3 | 1 |
 | 2020-11-26 01:21 | [#55 跳跃游戏](https://leetcode-cn.com/problems/jump-game) | MEDIUM | 12 | **2** |
@@ -339,7 +339,7 @@
 | 2020-08-01 02:04 | [#202 快乐数](https://leetcode-cn.com/problems/happy-number) | EASY | 5 | 1 |
 | 2020-07-31 23:36 | [#412 Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz) | EASY | 2 | 1 |
 | 2020-07-31 23:26 | [#387 字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string) | EASY | 10 | 1 |
-| 2020-07-31 22:47 | [#204 计数质数](https://leetcode-cn.com/problems/count-primes) | EASY | 19 | 1 |
+| 2020-07-31 22:47 | [#204 计数质数](https://leetcode-cn.com/problems/count-primes) | MEDIUM | 19 | 1 |
 | 2020-07-31 15:04 | [#371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers) | MEDIUM | 1 | 1 |
 | 2020-07-31 14:42 | [#268 丢失的数字](https://leetcode-cn.com/problems/missing-number) | EASY | 10 | 1 |
 | 2020-07-31 13:53 | [#169 多数元素](https://leetcode-cn.com/problems/majority-element) | EASY | 6 | **2** |
