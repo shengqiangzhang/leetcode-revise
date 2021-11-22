@@ -343,7 +343,7 @@
 | 2020-07-31 15:04 | [#371 两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers) | MEDIUM | 1 | 1 |
 | 2020-07-31 14:42 | [#268 丢失的数字](https://leetcode-cn.com/problems/missing-number) | EASY | 10 | 1 |
 | 2020-07-31 13:53 | [#169 多数元素](https://leetcode-cn.com/problems/majority-element) | EASY | 6 | **2** |
-| 2020-07-29 01:53 | [#189 旋转数组](https://leetcode-cn.com/problems/rotate-array) | MEDIUM | 4 | 1 |
+| 2020-07-29 01:53 | [#189 轮转数组](https://leetcode-cn.com/problems/rotate-array) | MEDIUM | 4 | 1 |
 | 2020-07-28 23:43 | [#617 合并二叉树](https://leetcode-cn.com/problems/merge-two-binary-trees) | EASY | 15 | 1 |
 | 2020-07-27 20:25 | [#581 最短无序连续子数组](https://leetcode-cn.com/problems/shortest-unsorted-continuous-subarray) | MEDIUM | 3 | **2** |
 | 2020-07-26 21:57 | [#461 汉明距离](https://leetcode-cn.com/problems/hamming-distance) | EASY | 3 | 1 |
