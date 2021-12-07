@@ -40,7 +40,7 @@
 | 2021-04-11 00:05 | [#172 阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes) | MEDIUM | 33 | **2** |
 | 2021-04-10 21:57 | [#23 合并K个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists) | HARD | 3 | 1 |
 | 2021-04-10 21:28 | [#5 最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring) | MEDIUM | 8 | **4** |
-| 2021-04-10 15:18 | [#53 最大子序和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 8 | **2** |
+| 2021-04-10 15:18 | [#53 最大子数组和](https://leetcode-cn.com/problems/maximum-subarray) | EASY | 8 | **2** |
 | 2021-04-10 15:05 | [#15 三数之和](https://leetcode-cn.com/problems/3sum) | MEDIUM | 13 | **4** |
 | 2021-04-09 23:14 | [#43 字符串相乘](https://leetcode-cn.com/problems/multiply-strings) | MEDIUM | 5 | **2** |
 | 2021-04-09 22:30 | [#206 反转链表](https://leetcode-cn.com/problems/reverse-linked-list) | EASY | 2 | **2** |
@@ -351,7 +351,7 @@
 | 2020-07-25 23:33 | [#283 移动零](https://leetcode-cn.com/problems/move-zeroes) | EASY | 2 | 1 |
 | 2020-07-25 23:11 | [#190 颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits) | EASY | 4 | 1 |
 | 2020-07-24 23:58 | [#191 位1的个数](https://leetcode-cn.com/problems/number-of-1-bits) | EASY | 7 | 1 |
-| 2020-07-24 23:31 | [#326 3的幂](https://leetcode-cn.com/problems/power-of-three) | EASY | 5 | 1 |
+| 2020-07-24 23:31 | [#326 3 的幂](https://leetcode-cn.com/problems/power-of-three) | EASY | 5 | 1 |
 | 2020-07-23 16:49 | [#292 Nim 游戏](https://leetcode-cn.com/problems/nim-game) | EASY | 1 | 1 |
 | 2020-07-23 16:37 | [#217 存在重复元素](https://leetcode-cn.com/problems/contains-duplicate) | EASY | 10 | 1 |
 | 2020-07-21 23:05 | [#231 2 的幂](https://leetcode-cn.com/problems/power-of-two) | EASY | 3 | 1 |

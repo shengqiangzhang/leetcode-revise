@@ -18,8 +18,6 @@ import json
 import time
 
 
-
-
 # 登录
 def login(EMAIL, PASSWORD):
     session = requests.Session()  # 建立会话
@@ -63,10 +61,19 @@ def get_submission_list(slug, session):
 
     headers = {"content-type": "application/json", "origin": "https://leetcode-cn.com", "referer": "https://leetcode-cn.com/progress/", "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"}
 
-    r = session.post(url, data=payload, headers=headers, verify=False)
-    response_data = json.loads(r.text)
+    # 发起请求，失败重试10次，每次间隔2秒
+    for try_count in range(0, 10):
+        try:
+            r = session.post(url, data=payload, headers=headers, verify=False)
+            response_data = json.loads(r.text)
+            return response_data
+        except:
+            print("获取题目为{}的提交记录失败，重试中，重试次数：{}/10".format(slug, try_count + 1))
+            time.sleep(2)
+            continue
 
-    return response_data
+    # 走到这里说明出异常了
+    raise Exception("获取题目为{}的提交记录失败，请检查错误".format(slug))
 
 
 
@@ -170,8 +177,12 @@ def generate_markdown_text(response_data, session):
 
 
 
+
+
+
+
 if __name__ == '__main__':
-    session = login(sys.argv[1], sys.argv[2]) # 登录
+    session = login(sys.argv[1], sys.argv[2]) # 登录，第一个参数为leetcode邮箱账号，第二个参数为leetcode密码
     response_data = get_accepted_problems(session) # 获取所有通过的题目列表
     markdown_text = generate_markdown_text(response_data, session) # 生成Markdown文本
 
