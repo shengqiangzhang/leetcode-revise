@@ -74,7 +74,7 @@
 | 2021-03-29 10:31 | [#572 另一棵树的子树](https://leetcode-cn.com/problems/subtree-of-another-tree) | EASY | 3 | 1 |
 | 2021-03-28 12:59 | [#93 复原 IP 地址](https://leetcode-cn.com/problems/restore-ip-addresses) | MEDIUM | 2 | 1 |
 | 2021-03-28 11:43 | [#8 字符串转换整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi) | MEDIUM | 14 | **2** |
-| 2021-03-27 01:31 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | EASY | 16 | **2** |
+| 2021-03-27 01:31 | [#7 整数反转](https://leetcode-cn.com/problems/reverse-integer) | MEDIUM | 16 | **2** |
 | 2021-03-25 14:50 | [#394 字符串解码](https://leetcode-cn.com/problems/decode-string) | MEDIUM | 7 | **3** |
 | 2021-03-25 14:41 | [#678 有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string) | MEDIUM | 1 | 1 |
 | 2021-03-25 10:37 | [#322 零钱兑换](https://leetcode-cn.com/problems/coin-change) | MEDIUM | 16 | **4** |
