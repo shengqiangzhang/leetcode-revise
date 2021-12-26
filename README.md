@@ -59,7 +59,7 @@
 | 2021-04-08 19:30 | [#442 数组中重复的数据](https://leetcode-cn.com/problems/find-all-duplicates-in-an-array) | MEDIUM | 4 | 1 |
 | 2021-04-08 17:06 | [#3 无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters) | MEDIUM | 9 | **2** |
 | 2021-04-08 16:45 | [#622 设计循环队列](https://leetcode-cn.com/problems/design-circular-queue) | MEDIUM | 4 | 1 |
-| 2021-04-07 15:48 | [#146 LRU 缓存机制](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 6 | **3** |
+| 2021-04-07 15:48 | [#146 LRU 缓存](https://leetcode-cn.com/problems/lru-cache) | MEDIUM | 6 | **3** |
 | 2021-04-07 13:15 | [#718 最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray) | MEDIUM | 1 | 1 |
 | 2021-04-07 12:12 | [#415 字符串相加](https://leetcode-cn.com/problems/add-strings) | EASY | 7 | **2** |
 | 2021-04-07 11:15 | [#103 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal) | MEDIUM | 4 | **2** |
