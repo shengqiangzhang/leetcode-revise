@@ -119,7 +119,7 @@ def generate_markdown_text(response_data, session):
     markdown_text += "    - 点击Fork后的项目下的Settings->Secrets->New repository secret, 分别添加以下secret:\n"
     markdown_text += "        - Name:LEETCODE_EMAIL  Value:你的LeetCode账号\n"
     markdown_text += "        - Name:LEETCODE_PASSWORD  Value:你的LeetCode密码\n"
-    markdown_text += "3. 默认配置为12小时更新一次，可根据需求修改[action.yml](.github/workflows/action.yml)文件的第`9行`\n"
+    markdown_text += "3. 默认配置为12小时更新一次，可根据需求修改[action.yml](.github/workflows/action.yml#L9)文件的第`9行`\n"
     markdown_text +=  "## 补充说明\n"
     markdown_text += "如有其他需求, 欢迎提交PR。\n"
     markdown_text += "\n\n"
