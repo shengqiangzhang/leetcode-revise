@@ -16,7 +16,7 @@ jobs:
     steps:
       # 检测代码
       - name: 'Checkout codes'
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       
       # 修改系统时区
       - name: Setup the time zone to Asia/Shanghai
