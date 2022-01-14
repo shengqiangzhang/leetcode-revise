@@ -56,3 +56,6 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update changes
+
+          # 请注意当前项目的分支名，可能是master或main
+          branch: master
