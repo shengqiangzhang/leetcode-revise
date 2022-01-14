@@ -111,8 +111,9 @@ def generate_markdown_text(response_data, session):
     # 相关介绍
     response_data = response_data['data']['userProfileQuestions']['questions']
     markdown_text =  "## 相关介绍\n"
-    markdown_text += "这是一个简易的LeetCode自动统计程序, 可自动统计最近提交通过的题目, 并以Markdown的形式展示相关的数据。\n"
-    markdown_text += "根据个人需求, 目前只考虑获取**提交次数**和**重刷次数**这两个指标, 目的是为了更好地辅助做题。\n"
+    markdown_text += "这是一个LeetCode题目自动统计及分析程序, 可自动统计所有提交通过的题目, 并以Markdown的形式展示。\n\n"
+    markdown_text += "根据个人需求, 目前只考虑获取**提交次数**和**重刷次数**这两个指标, 以便更好地进行刷题。\n\n"
+    markdown_text += "采用GitHub Action进行自动化部署，无需本地服务器资源。\n"
     markdown_text +=  "## 使用教程\n"
     markdown_text += "1. Fork本项目\n"
     markdown_text += "2. 配置LeetCode账号和密码\n"
