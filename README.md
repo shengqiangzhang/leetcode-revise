@@ -47,7 +47,7 @@
 | 2021-04-09 21:56 | [#912 排序数组](https://leetcode-cn.com/problems/sort-an-array) | MEDIUM | 6 | 1 |
 | 2021-04-09 21:51 | [#215 数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array) | MEDIUM | 15 | **2** |
 | 2021-04-09 21:39 | [#剑指 Offer 07 重建二叉树](https://leetcode-cn.com/problems/zhong-jian-er-cha-shu-lcof) | MEDIUM | 5 | **2** |
-| 2021-04-09 16:56 | [#69 Sqrt(x)](https://leetcode-cn.com/problems/sqrtx) | EASY | 22 | **3** |
+| 2021-04-09 16:56 | [#69 x 的平方根 ](https://leetcode-cn.com/problems/sqrtx) | EASY | 22 | **3** |
 | 2021-04-09 11:00 | [#31 下一个排列](https://leetcode-cn.com/problems/next-permutation) | MEDIUM | 7 | **3** |
 | 2021-04-09 00:54 | [#142 环形链表 II](https://leetcode-cn.com/problems/linked-list-cycle-ii) | MEDIUM | 7 | **2** |
 | 2021-04-09 00:52 | [#141 环形链表](https://leetcode-cn.com/problems/linked-list-cycle) | EASY | 9 | **3** |
