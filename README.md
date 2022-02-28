@@ -119,7 +119,7 @@
 | 2021-02-28 02:34 | [#701 二叉搜索树中的插入操作](https://leetcode-cn.com/problems/insert-into-a-binary-search-tree) | MEDIUM | 1 | 1 |
 | 2021-02-28 02:20 | [#700 二叉搜索树中的搜索](https://leetcode-cn.com/problems/search-in-a-binary-search-tree) | EASY | 1 | 1 |
 | 2021-02-28 02:14 | [#98 验证二叉搜索树](https://leetcode-cn.com/problems/validate-binary-search-tree) | MEDIUM | 22 | **3** |
-| 2021-02-28 01:48 | [#1038 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree) | MEDIUM | 2 | 1 |
+| 2021-02-28 01:48 | [#1038 从二叉搜索树到更大和树](https://leetcode-cn.com/problems/binary-search-tree-to-greater-sum-tree) | MEDIUM | 2 | 1 |
 | 2021-02-28 01:47 | [#538 把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree) | MEDIUM | 4 | **2** |
 | 2021-02-27 23:51 | [#230 二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst) | MEDIUM | 5 | **2** |
 | 2021-02-27 23:29 | [#652 寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees) | MEDIUM | 3 | 1 |
