@@ -30,7 +30,7 @@
 | 2021-04-30 15:30 | [#137 只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii) | MEDIUM | 7 | 1 |
 | 2021-04-30 01:52 | [#6 Z 字形变换](https://leetcode-cn.com/problems/zigzag-conversion) | MEDIUM | 5 | 1 |
 | 2021-04-28 22:11 | [#470 用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7) | MEDIUM | 2 | 1 |
-| 2021-04-28 21:39 | [#151 翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | MEDIUM | 5 | 1 |
+| 2021-04-28 21:39 | [#151 颠倒字符串中的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string) | MEDIUM | 5 | 1 |
 | 2021-04-28 16:32 | [#633 平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers) | MEDIUM | 1 | 1 |
 | 2021-04-16 12:57 | [#64 最小路径和](https://leetcode-cn.com/problems/minimum-path-sum) | MEDIUM | 3 | **2** |
 | 2021-04-16 12:45 | [#148 排序链表](https://leetcode-cn.com/problems/sort-list) | MEDIUM | 4 | **2** |
