@@ -31,8 +31,8 @@ def login(EMAIL, PASSWORD):
         'password': PASSWORD
     }
 
-    sign_in_url = 'https://leetcode-cn.com/accounts/login/'
-    headers = {'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36", 'Connection': 'keep-alive', 'Referer': sign_in_url, "origin": "https://leetcode-cn.com/"}
+    sign_in_url = 'https://leetcode.cn/accounts/login/'
+    headers = {'User-Agent': "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36", 'Connection': 'keep-alive', 'Referer': sign_in_url, "origin": "https://leetcode.cn/"}
 
     # 发送登录请求
     session.post(sign_in_url, headers=headers, data=login_data, timeout=10, allow_redirects=False)
@@ -46,7 +46,7 @@ def login(EMAIL, PASSWORD):
 
 # 获取某个题目的提交记录
 def get_submission_list(slug, session):
-    url = 'https://leetcode-cn.com/graphql/'
+    url = 'https://leetcode.cn/graphql/'
 
     payload = json.dumps({
         "operationName": "submissions",
@@ -59,7 +59,7 @@ def get_submission_list(slug, session):
         "query": "query submissions($offset: Int!, $limit: Int!, $lastKey: String, $questionSlug: String!) {\n  submissionList(offset: $offset, limit: $limit, lastKey: $lastKey, questionSlug: $questionSlug) {\n    lastKey\n    hasNext\n    submissions {\n      id\n      statusDisplay\n      lang\n      runtime\n      timestamp\n      url\n      isPending\n      memory\n      __typename\n    }\n    __typename\n  }\n}\n"
     })
 
-    headers = {"content-type": "application/json", "origin": "https://leetcode-cn.com", "referer": "https://leetcode-cn.com/progress/", "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"}
+    headers = {"content-type": "application/json", "origin": "https://leetcode.cn", "referer": "https://leetcode.cn/progress/", "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"}
 
     # 发起请求，失败重试10次，每次间隔2秒
     for try_count in range(0, 10):
@@ -79,7 +79,7 @@ def get_submission_list(slug, session):
 
 # 获取所有通过的题目列表
 def get_accepted_problems(session):
-    url = 'https://leetcode-cn.com/graphql/'
+    url = 'https://leetcode.cn/graphql/'
 
     payload = json.dumps({
             "operationName": "userProfileQuestions",
@@ -95,7 +95,7 @@ def get_accepted_problems(session):
             "query": "query userProfileQuestions($status: StatusFilterEnum!, $skip: Int!, $first: Int!, $sortField: SortFieldEnum!, $sortOrder: SortingOrderEnum!, $keyword: String, $difficulty: [DifficultyEnum!]) {\n  userProfileQuestions(status: $status, skip: $skip, first: $first, sortField: $sortField, sortOrder: $sortOrder, keyword: $keyword, difficulty: $difficulty) {\n    totalNum\n    questions {\n      translatedTitle\n      frontendId\n      titleSlug\n      title\n      difficulty\n      lastSubmittedAt\n      numSubmitted\n      lastSubmissionSrc {\n        sourceType\n        ... on SubmissionSrcLeetbookNode {\n          slug\n          title\n          pageId\n          __typename\n        }\n        __typename\n      }\n      __typename\n    }\n    __typename\n  }\n}\n"
     })
 
-    headers = {"content-type": "application/json", "origin": "https://leetcode-cn.com", "referer": "https://leetcode-cn.com/progress/", "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"}
+    headers = {"content-type": "application/json", "origin": "https://leetcode.cn", "referer": "https://leetcode.cn/progress/", "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36"}
 
     r = session.post(url, data=payload, headers=headers, verify=False)
     response_data = json.loads(r.text)
@@ -116,13 +116,14 @@ def generate_markdown_text(response_data, session):
     markdown_text += "采用GitHub Action进行自动化部署，无需本地服务器资源。\n"
     markdown_text +=  "## 使用教程\n"
     markdown_text += "1. Fork本项目\n"
-    markdown_text += "2. 配置LeetCode账号和密码\n"
-    markdown_text += "    - 点击Fork后的项目下的Settings->Secrets->New repository secret, 分别添加以下secret:\n"
-    markdown_text += "        - Name:LEETCODE_EMAIL  Value:你的LeetCode账号\n"
-    markdown_text += "        - Name:LEETCODE_PASSWORD  Value:你的LeetCode密码\n"
-    markdown_text += "3. 默认配置为12小时更新一次，可根据需求修改[action.yml](.github/workflows/action.yml#L9)文件的第`9行`\n"
+    markdown_text += "2. 点击Fork后的项目下的Settings->Secrets->Actions->New repository secret, 分别添加以下secret:\n"
+    markdown_text += "    - Name:LEETCODE_EMAIL\n"
+    markdown_text += "        - Secret:你的LeetCode账号\n"
+    markdown_text += "    - Name:LEETCODE_PASSWORD\n"
+    markdown_text += "        - Secret:你的LeetCode密码\n"
+    markdown_text += "3. 回到项目首页并进入Actions，点击绿色按钮`I understand my workflows, go ahead and enable them`，在左侧点击`Github LeetCode Bot`，再点击黄色提示框中的`Enable workflow`，接着再点击蓝色提示框中的`Run workflow`即可\n"
     markdown_text +=  "## 补充说明\n"
-    markdown_text += "如有其他需求, 欢迎提交PR。\n"
+    markdown_text += "默认配置为12小时更新一次，可根据需求修改[action.yml](.github/workflows/action.yml#L9)文件的第 `9` 行。如有其他需求, 欢迎提交PR。\n"
     markdown_text += "\n\n"
     markdown_text += "> 重刷次数的计算规则为: 累计所有提交通过且互为不同一天的记录次数\n"
     markdown_text += "\n"
@@ -141,7 +142,7 @@ def generate_markdown_text(response_data, session):
         titleSlug = sub_data['titleSlug']
         numSubmitted = sub_data['numSubmitted']
         numSubmitted = str(numSubmitted)
-        url = "https://leetcode-cn.com/problems/{}".format(sub_data['titleSlug'])
+        url = "https://leetcode.cn/problems/{}".format(sub_data['titleSlug'])
 
         # 获取重刷次数
         # 规则定义如下：提交通过的时间 与 之前提交通过的时间 不为同一天 即认为是重新刷了一遍
