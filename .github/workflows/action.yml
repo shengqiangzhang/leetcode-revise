@@ -11,8 +11,8 @@ on:
 
 jobs:
   bot:
-    # 运行环境，Ubuntu
-    runs-on: ubuntu-latest
+    # 运行环境，Ubuntu-20.04
+    runs-on: Ubuntu-20.04
     steps:
       # 检测代码
       - name: 'Checkout codes'
