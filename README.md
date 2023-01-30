@@ -29,7 +29,7 @@
 | 2021-04-30 21:47 | [#468 验证IP地址](https://leetcode.cn/problems/validate-ip-address) | MEDIUM | 4 | 1 |
 | 2021-04-30 21:11 | [#958 二叉树的完全性检验](https://leetcode.cn/problems/check-completeness-of-a-binary-tree) | MEDIUM | 2 | 1 |
 | 2021-04-30 15:30 | [#137 只出现一次的数字 II](https://leetcode.cn/problems/single-number-ii) | MEDIUM | 7 | 1 |
-| 2021-04-30 01:52 | [#6 Z 字形变换](https://leetcode.cn/problems/zigzag-conversion) | MEDIUM | 5 | 1 |
+| 2021-04-30 01:52 | [#6 N 字形变换](https://leetcode.cn/problems/zigzag-conversion) | MEDIUM | 5 | 1 |
 | 2021-04-28 22:11 | [#470 用 Rand7() 实现 Rand10()](https://leetcode.cn/problems/implement-rand10-using-rand7) | MEDIUM | 2 | 1 |
 | 2021-04-28 21:39 | [#151 反转字符串中的单词](https://leetcode.cn/problems/reverse-words-in-a-string) | MEDIUM | 5 | 1 |
 | 2021-04-28 16:32 | [#633 平方数之和](https://leetcode.cn/problems/sum-of-square-numbers) | MEDIUM | 1 | 1 |
