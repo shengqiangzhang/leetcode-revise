@@ -46,7 +46,7 @@
 | 2021-04-11 10:42 | [#1823 找出游戏的获胜者](https://leetcode.cn/problems/find-the-winner-of-the-circular-game) | MEDIUM | 1 | 1 |
 | 2021-04-11 10:35 | [#1822 数组元素积的符号](https://leetcode.cn/problems/sign-of-the-product-of-an-array) | EASY | 3 | 1 |
 | 2021-04-11 00:05 | [#172 阶乘后的零](https://leetcode.cn/problems/factorial-trailing-zeroes) | MEDIUM | 33 | **2** |
-| 2021-04-10 21:57 | [#23 合并K个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 3 | 1 |
+| 2021-04-10 21:57 | [#23 合并 K 个升序链表](https://leetcode.cn/problems/merge-k-sorted-lists) | HARD | 3 | 1 |
 | 2021-04-10 21:28 | [#5 最长回文子串](https://leetcode.cn/problems/longest-palindromic-substring) | MEDIUM | 8 | **4** |
 | 2021-04-10 15:18 | [#53 最大子数组和](https://leetcode.cn/problems/maximum-subarray) | MEDIUM | 8 | **2** |
 | 2021-04-10 15:05 | [#15 三数之和](https://leetcode.cn/problems/3sum) | MEDIUM | 13 | **4** |
