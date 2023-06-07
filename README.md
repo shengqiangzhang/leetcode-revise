@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-06-06 23:44 | [#1071 字符串的最大公因子](https://leetcode.cn/problems/greatest-common-divisor-of-strings) | EASY | 2 | **2** |
 | 2023-05-31 21:33 | [#1768 交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately) | EASY | 3 | **2** |
 | 2022-01-14 14:49 | [#1 两数之和](https://leetcode.cn/problems/two-sum) | EASY | 8 | **3** |
 | 2021-05-04 23:18 | [#525 连续数组](https://leetcode.cn/problems/contiguous-array) | MEDIUM | 1 | 1 |
@@ -295,7 +296,6 @@
 | 2020-08-19 17:06 | [#剑指 Offer 38 字符串的排列](https://leetcode.cn/problems/zi-fu-chuan-de-pai-lie-lcof) | MEDIUM | 2 | 1 |
 | 2020-08-18 22:16 | [#面试题 10.01 合并排序的数组](https://leetcode.cn/problems/sorted-merge-lcci) | EASY | 11 | 1 |
 | 2020-08-18 21:02 | [#892 三维形体的表面积](https://leetcode.cn/problems/surface-area-of-3d-shapes) | EASY | 3 | 1 |
-| 2020-08-18 18:15 | [#1071 字符串的最大公因子](https://leetcode.cn/problems/greatest-common-divisor-of-strings) | EASY | 1 | 1 |
 | 2020-08-18 16:30 | [#836 矩形重叠](https://leetcode.cn/problems/rectangle-overlap) | EASY | 1 | 1 |
 | 2020-08-18 01:11 | [#1114 按序打印](https://leetcode.cn/problems/print-in-order) | EASY | 2 | 1 |
 | 2020-08-18 00:54 | [#剑指 Offer 56 - I 数组中数字出现的次数](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof) | MEDIUM | 1 | 1 |
