@@ -391,7 +391,7 @@
 | 2020-07-13 03:11 | [#66 加一](https://leetcode.cn/problems/plus-one) | EASY | 2 | 1 |
 | 2020-07-13 02:52 | [#58 最后一个单词的长度](https://leetcode.cn/problems/length-of-last-word) | EASY | 2 | 1 |
 | 2020-07-12 16:32 | [#35 搜索插入位置](https://leetcode.cn/problems/search-insert-position) | EASY | 3 | 1 |
-| 2020-07-12 16:13 | [#28 找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string) | MEDIUM | 16 | 1 |
+| 2020-07-12 16:13 | [#28 找出字符串中第一个匹配项的下标](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string) | EASY | 16 | 1 |
 | 2020-07-12 15:36 | [#27 移除元素](https://leetcode.cn/problems/remove-element) | EASY | 3 | 1 |
 | 2020-07-12 15:07 | [#26 删除有序数组中的重复项](https://leetcode.cn/problems/remove-duplicates-from-sorted-array) | EASY | 4 | 1 |
 | 2020-07-12 00:24 | [#1394 找出数组中的幸运数](https://leetcode.cn/problems/find-lucky-integer-in-an-array) | EASY | 2 | 1 |
