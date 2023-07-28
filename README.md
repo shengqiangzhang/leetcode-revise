@@ -87,7 +87,7 @@
 | 2021-03-25 14:50 | [#394 字符串解码](https://leetcode.cn/problems/decode-string) | MEDIUM | 7 | **3** |
 | 2021-03-25 14:41 | [#678 有效的括号字符串](https://leetcode.cn/problems/valid-parenthesis-string) | MEDIUM | 1 | 1 |
 | 2021-03-25 10:37 | [#322 零钱兑换](https://leetcode.cn/problems/coin-change) | MEDIUM | 16 | **4** |
-| 2021-03-25 02:57 | [#309 最佳买卖股票时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown) | MEDIUM | 3 | **2** |
+| 2021-03-25 02:57 | [#309 买卖股票的最佳时机含冷冻期](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-cooldown) | MEDIUM | 3 | **2** |
 | 2021-03-25 02:48 | [#714 买卖股票的最佳时机含手续费](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-with-transaction-fee) | MEDIUM | 3 | **2** |
 | 2021-03-25 02:40 | [#188 买卖股票的最佳时机 IV](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iv) | HARD | 2 | 1 |
 | 2021-03-25 02:36 | [#123 买卖股票的最佳时机 III](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock-iii) | HARD | 1 | 1 |
