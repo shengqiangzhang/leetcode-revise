@@ -28,9 +28,9 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-08-10 22:02 | [#1 两数之和](https://leetcode.cn/problems/two-sum) | EASY | 10 | **4** |
 | 2023-06-06 23:44 | [#1071 字符串的最大公因子](https://leetcode.cn/problems/greatest-common-divisor-of-strings) | EASY | 2 | **2** |
 | 2023-05-31 21:33 | [#1768 交替合并字符串](https://leetcode.cn/problems/merge-strings-alternately) | EASY | 3 | **2** |
-| 2022-01-14 14:49 | [#1 两数之和](https://leetcode.cn/problems/two-sum) | EASY | 8 | **3** |
 | 2021-05-04 23:18 | [#525 连续数组](https://leetcode.cn/problems/contiguous-array) | MEDIUM | 1 | 1 |
 | 2021-05-04 14:39 | [#695 岛屿的最大面积](https://leetcode.cn/problems/max-area-of-island) | MEDIUM | 1 | 1 |
 | 2021-05-04 00:25 | [#227 基本计算器 II](https://leetcode.cn/problems/basic-calculator-ii) | MEDIUM | 18 | **3** |
