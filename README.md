@@ -28,6 +28,7 @@
 
 | 最近提交时间 | 题目 | 题目难度 | 提交次数| 重刷次数 |
 | ---- | ---- | ---- | ---- | ---- |
+| 2023-08-16 00:26 | [#234 回文链表](https://leetcode.cn/problems/palindrome-linked-list) | EASY | 9 | **3** |
 | 2023-08-10 22:38 | [#704 二分查找](https://leetcode.cn/problems/binary-search) | EASY | 3 | 1 |
 | 2023-08-10 22:02 | [#1 两数之和](https://leetcode.cn/problems/two-sum) | EASY | 10 | **4** |
 | 2023-06-06 23:44 | [#1071 字符串的最大公因子](https://leetcode.cn/problems/greatest-common-divisor-of-strings) | EASY | 2 | **2** |
@@ -141,7 +142,6 @@
 | 2021-02-27 20:55 | [#117 填充每个节点的下一个右侧节点指针 II](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node-ii) | MEDIUM | 10 | **3** |
 | 2021-02-27 20:41 | [#116 填充每个节点的下一个右侧节点指针](https://leetcode.cn/problems/populating-next-right-pointers-in-each-node) | MEDIUM | 4 | 1 |
 | 2021-02-27 18:21 | [#114 二叉树展开为链表](https://leetcode.cn/problems/flatten-binary-tree-to-linked-list) | MEDIUM | 11 | **2** |
-| 2021-02-27 15:36 | [#234 回文链表](https://leetcode.cn/problems/palindrome-linked-list) | EASY | 5 | **2** |
 | 2021-02-27 02:43 | [#25 K 个一组翻转链表](https://leetcode.cn/problems/reverse-nodes-in-k-group) | HARD | 6 | 1 |
 | 2021-02-27 02:07 | [#92 反转链表 II](https://leetcode.cn/problems/reverse-linked-list-ii) | MEDIUM | 3 | **2** |
 | 2021-02-26 22:40 | [#剑指 Offer 24 反转链表](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof) | EASY | 5 | **2** |
