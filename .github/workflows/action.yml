@@ -24,11 +24,11 @@ jobs:
         with:
           timezone: Asia/Shanghai
       
-      # 安装Python3.6
+      # 安装Python3.7
       - name: Set up Python
         uses: actions/setup-python@v1
         with:
-          python-version: 3.6
+          python-version: 3.7
       
       # 清除pip缓存   
       - name: Configure pip cache
